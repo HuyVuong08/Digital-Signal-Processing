@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="xmllib">
+  <macro name="xmlGetValues" file="xmlGetValues.bin" md5="4ba1befcc42c02346bc6f95027a3bfe2"/>
+</scilablib>

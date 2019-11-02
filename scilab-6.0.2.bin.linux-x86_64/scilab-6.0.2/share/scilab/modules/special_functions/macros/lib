@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="special_functionslib">
+  <macro name="%s_gamma" file="%s_gamma.bin" md5="854bc608538fcf50a890d65eaa04fbf5"/>
+  <macro name="calerf" file="calerf.bin" md5="5d639c639dff2116102a2f691515d2f3"/>
+  <macro name="erfinv" file="erfinv.bin" md5="aeaf51c020aeb9cc88751f42416ff7c6"/>
+</scilablib>

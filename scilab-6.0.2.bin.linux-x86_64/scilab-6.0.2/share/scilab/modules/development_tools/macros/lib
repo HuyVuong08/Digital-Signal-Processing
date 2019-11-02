@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="development_toolslib">
+  <macro name="bench_run" file="bench_run.bin" md5="d45e3572b5b7f80263a93c36145016ae"/>
+  <macro name="devtools_run_builder" file="devtools_run_builder.bin" md5="f619b173db21f3848d79a516c8f8f175"/>
+  <macro name="example_run" file="example_run.bin" md5="39344572fced4561b98ac1c0f8ebec53"/>
+  <macro name="launchtest" file="launchtest.bin" md5="4e10a244abff0dae533ec3a0c03a554d"/>
+  <macro name="nonreg_test_run" file="nonreg_test_run.bin" md5="588e623b2c364e1023af1145dafe26fe"/>
+  <macro name="scitest" file="scitest.bin" md5="fceaa80970d8bde7771eff8035866ca6"/>
+  <macro name="test_clean" file="test_clean.bin" md5="52279c660fb3662362b4684aa9046f7c"/>
+  <macro name="test_run" file="test_run.bin" md5="9552639b9083321c3de560c0481129fd"/>
+  <macro name="test_run_level" file="test_run_level.bin" md5="b8e92d69a0b8fe2d938302d6b0e3baa3"/>
+  <macro name="unit_test_run" file="unit_test_run.bin" md5="64c866da5eb717f4e06049f1223ae85c"/>
+</scilablib>

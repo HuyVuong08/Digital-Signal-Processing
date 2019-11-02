@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="stringlib">
+  <macro name="%_strsplit" file="%_strsplit.bin" md5="e9acf394cf2e870aa8cf8e214012a14d"/>
+  <macro name="%ip_part" file="%ip_part.bin" md5="07ad89573df8494707c875b3a07f660a"/>
+  <macro name="%p_part" file="%p_part.bin" md5="04609d4dc1cb54979f1501754937be7b"/>
+  <macro name="%plist_string" file="%plist_string.bin" md5="e9236c00c7862d95b5d322a8129e1b78"/>
+  <macro name="arobasestring2strings" file="arobasestring2strings.bin" md5="a3f78d17e403136f700cab4595b2a36c"/>
+  <macro name="ascii2string" file="ascii2string.bin" md5="2e930725d853082f8c554fc5f11ff15c"/>
+  <macro name="asciimat" file="asciimat.bin" md5="72bc93836fc6eebb9de608fd2480cfe6"/>
+  <macro name="blanks" file="blanks.bin" md5="37c217d947921038b44f96c9484462b9"/>
+  <macro name="eval" file="eval.bin" md5="e41c69ede602592a9a22a67a17f88cc2"/>
+  <macro name="evstr" file="evstr.bin" md5="034e85b9c7f57d13d93168274013eb19"/>
+  <macro name="justify" file="justify.bin" md5="ae3d376c9b204ffe55112d2c8afa13d0"/>
+  <macro name="prettyprint" file="prettyprint.bin" md5="0394c220861d1d0735aab9a37ee07a55"/>
+  <macro name="sci2exp" file="sci2exp.bin" md5="69631c76d1c0aefbbba088cb3353b177"/>
+  <macro name="strcmpi" file="strcmpi.bin" md5="decbc24578b9ae77ed669d07ca79bfd4"/>
+  <macro name="tokenpos" file="tokenpos.bin" md5="d05350c0c6d9939e0b78e6614f8ec8d8"/>
+</scilablib>

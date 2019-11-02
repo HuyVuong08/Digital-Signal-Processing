@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="timelib">
+  <macro name="calendar" file="calendar.bin" md5="3804a971b35722ef2b5d101ccdf2b7a3"/>
+  <macro name="clock" file="clock.bin" md5="efba39f135557bea1eb5a02ded5a8ea2"/>
+  <macro name="date" file="date.bin" md5="6d59df4bbf8e4a654cd0885e0dbe961a"/>
+  <macro name="datenum" file="datenum.bin" md5="b0e0e15f01224388e093674d3fc0ba5f"/>
+  <macro name="datevec" file="datevec.bin" md5="7b601d6d31cc5c76c2e233c9a2e6b494"/>
+  <macro name="eomday" file="eomday.bin" md5="ae32ec045dfa6ee56f2c91dd559a4049"/>
+  <macro name="etime" file="etime.bin" md5="52343d65058a59467121f068c7ac946e"/>
+  <macro name="isLeapYear" file="isLeapYear.bin" md5="ac6cf81fe20fea057086144d0da9d77f"/>
+  <macro name="now" file="now.bin" md5="b0b968709a35936c48d6fe38bc4acef4"/>
+  <macro name="weekday" file="weekday.bin" md5="46132049a1c4a63e2b66b6f337ec0d2f"/>
+</scilablib>

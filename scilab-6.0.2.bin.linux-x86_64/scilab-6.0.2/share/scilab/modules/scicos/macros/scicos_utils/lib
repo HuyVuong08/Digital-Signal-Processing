@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="scicos_utilslib">
+  <macro name="block_parameter_error" file="block_parameter_error.bin" md5="e0145e1bb9fb291d50f0b887e2c6e7af"/>
+  <macro name="find_scicos_version" file="find_scicos_version.bin" md5="697b12d6018b8c17331284e5b36c1966"/>
+  <macro name="fixedpointgcd" file="fixedpointgcd.bin" md5="3aa5953d6e4811874337fcd4c7f48222"/>
+  <macro name="get_scicos_version" file="get_scicos_version.bin" md5="6e6c5e59cef5208fa9d4c3254d8efa25"/>
+  <macro name="initial_scicos_tables" file="initial_scicos_tables.bin" md5="3c89792d15ea3f3cc00be51442069364"/>
+  <macro name="returntoscilab" file="returntoscilab.bin" md5="1eba0e78695d34aeef3d69db1d8f3b19"/>
+  <macro name="scicos_getvalue" file="scicos_getvalue.bin" md5="0e92340adac58c9105773dfc63702d95"/>
+  <macro name="scicos_workspace_init" file="scicos_workspace_init.bin" md5="7c718beb6b8fc27a2a5c009456a5fb7c"/>
+  <macro name="with_modelica_compiler" file="with_modelica_compiler.bin" md5="49d48b0f663eed171d23845d9917b13a"/>
+</scilablib>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="genetic_algorithmslib">
+  <macro name="DominationRank" file="DominationRank.bin" md5="2a0d0559a00989c725d4e32bfcce8fd0"/>
+  <macro name="coding_ga_binary" file="coding_ga_binary.bin" md5="b6ab6046521357a70cd6ef6a1f102d12"/>
+  <macro name="coding_ga_identity" file="coding_ga_identity.bin" md5="a4b28e44c633d60357f9d51104e4f764"/>
+  <macro name="convert_to_float" file="convert_to_float.bin" md5="b2c6ed1d1a9c3bf75b8acc373261a830"/>
+  <macro name="crossover_ga_binary" file="crossover_ga_binary.bin" md5="da3e6782e0ef79e78e563d04741a2acb"/>
+  <macro name="crossover_ga_default" file="crossover_ga_default.bin" md5="d8cf38a262c2135f15befbfb8ef72a3e"/>
+  <macro name="init_ga_default" file="init_ga_default.bin" md5="8767fee9f86875f42b37180d079ab454"/>
+  <macro name="mutation_ga_binary" file="mutation_ga_binary.bin" md5="5cd1ba0d63dd8ad35259bb65dd7bde4d"/>
+  <macro name="mutation_ga_default" file="mutation_ga_default.bin" md5="ab82ddcf460dd977090bb33757f21095"/>
+  <macro name="optim_ga" file="optim_ga.bin" md5="fab94002728ab1500ab47a86d54d944d"/>
+  <macro name="optim_moga" file="optim_moga.bin" md5="53d5ff284530b0a4acc6869bc2c36610"/>
+  <macro name="optim_nsga" file="optim_nsga.bin" md5="f3910a79db7e649a894a137ca7bcea86"/>
+  <macro name="optim_nsga2" file="optim_nsga2.bin" md5="8f34269d80a794b7c475bbebc70839d3"/>
+  <macro name="output_ga_default" file="output_ga_default.bin" md5="1f4ec010f99ef14fa7ea7e8c6333e940"/>
+  <macro name="output_moga_default" file="output_moga_default.bin" md5="70a478c7fe3e60a3367461ebc0b9223f"/>
+  <macro name="output_nsga2_default" file="output_nsga2_default.bin" md5="1f4e08f146ba59ffbf8b84449b3d81df"/>
+  <macro name="output_nsga_default" file="output_nsga_default.bin" md5="c3a31f0771a5f8b9f9468c60ddbc6ed1"/>
+  <macro name="pareto_filter" file="pareto_filter.bin" md5="69d87e14d330346e863d3adcef1b3ae2"/>
+  <macro name="selection_ga_elitist" file="selection_ga_elitist.bin" md5="97c7667983f57028d52367ae46d6c2cf"/>
+  <macro name="selection_ga_random" file="selection_ga_random.bin" md5="43b41e22a37fb52c4a9719259ff5ac78"/>
+</scilablib>

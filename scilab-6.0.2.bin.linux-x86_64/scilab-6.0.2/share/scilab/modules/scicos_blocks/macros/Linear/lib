@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="Linearlib">
+  <macro name="BIGSOM_f" file="BIGSOM_f.bin" md5="5d8e525ba15b3626ae5a3b471cc77416"/>
+  <macro name="CLINDUMMY_f" file="CLINDUMMY_f.bin" md5="5a9e0e9fef23906d03e222a243b63a4e"/>
+  <macro name="CLR" file="CLR.bin" md5="32a061698b5b1073da5102cdb7ece538"/>
+  <macro name="CLR_f" file="CLR_f.bin" md5="c88c6746b75fa9ef40c8e48059f86b5e"/>
+  <macro name="CLSS" file="CLSS.bin" md5="40bda4bdfba8006c51725cbda31ca0c5"/>
+  <macro name="CLSS_f" file="CLSS_f.bin" md5="543ad1d045bcbac3d42a0638e526014b"/>
+  <macro name="DELAYV_f" file="DELAYV_f.bin" md5="d6b0aff73993f60977f51065387ad31e"/>
+  <macro name="DELAY_f" file="DELAY_f.bin" md5="edeeabb2e3286784ef51a813a7198ab6"/>
+  <macro name="DERIV" file="DERIV.bin" md5="cd70dcced29a961a0d578502c1493fda"/>
+  <macro name="DIFF_c" file="DIFF_c.bin" md5="7b2a815ecc2ff96219456dfe9c7e8e02"/>
+  <macro name="DLR" file="DLR.bin" md5="ba3c2cd94b54a8b2aea710dfc9e84117"/>
+  <macro name="DLR_f" file="DLR_f.bin" md5="e81afb83de843699868e13eb66884c3c"/>
+  <macro name="DLSS" file="DLSS.bin" md5="67814a2c1d13d5b1edc799f2e62c64e8"/>
+  <macro name="DLSS_f" file="DLSS_f.bin" md5="ded18d045a1f95e893eb7e0688527c20"/>
+  <macro name="DOLLAR" file="DOLLAR.bin" md5="707498a96d5762602009811e4f115023"/>
+  <macro name="DOLLAR_f" file="DOLLAR_f.bin" md5="092ca51d194a397a73a6a579850dc635"/>
+  <macro name="DOLLAR_m" file="DOLLAR_m.bin" md5="0565130da559b48ac261ec1efb319206"/>
+  <macro name="GAINBLK" file="GAINBLK.bin" md5="a279aad69c807e0f7f13af012100ade5"/>
+  <macro name="GAINBLK_f" file="GAINBLK_f.bin" md5="115c60553509e70e9f549bd6e0b9c632"/>
+  <macro name="GAIN_f" file="GAIN_f.bin" md5="7c2073680ff3ceb6bda5c0b6a3b391e8"/>
+  <macro name="INTEGRAL" file="INTEGRAL.bin" md5="e68bf3727797531858e4ce2b235cbce5"/>
+  <macro name="INTEGRAL_f" file="INTEGRAL_f.bin" md5="ef11f97e419d4ba4d4e14a445ab760bd"/>
+  <macro name="INTEGRAL_m" file="INTEGRAL_m.bin" md5="998b082d0b6265c22d9ced5b526d46a2"/>
+  <macro name="PID" file="PID.bin" md5="be5bd56b889ca5bc714902250dd5ebd4"/>
+  <macro name="REGISTER" file="REGISTER.bin" md5="2942a9b2c4881fa9ce1271e1ffcedd77"/>
+  <macro name="REGISTER_f" file="REGISTER_f.bin" md5="1288a133e86df3bf91b042c318a4a650"/>
+  <macro name="SAMPHOLD" file="SAMPHOLD.bin" md5="422d517c9772b39f987a00e20e58795f"/>
+  <macro name="SAMPHOLD_m" file="SAMPHOLD_m.bin" md5="d3b9b00e973b30c31e6b6609bf001907"/>
+  <macro name="SAMPLEHOLD_f" file="SAMPLEHOLD_f.bin" md5="6425ed61d824bf2beb3c3943ed1fc0d0"/>
+  <macro name="SOM_f" file="SOM_f.bin" md5="84c4ba3c07e95f9a17e4bc8257ba36cf"/>
+  <macro name="SUMMATION" file="SUMMATION.bin" md5="04bca798dbdc0abe73dc760ac14d8058"/>
+  <macro name="SUM_f" file="SUM_f.bin" md5="f43b06789332621b2b56ac3c64240ef7"/>
+  <macro name="TCLSS" file="TCLSS.bin" md5="a20bcc2f683c4d82ce39dff4b89dfb3e"/>
+  <macro name="TCLSS_f" file="TCLSS_f.bin" md5="5bf3a92233c2d91d56be84a5dcfb6e95"/>
+  <macro name="TIME_DELAY" file="TIME_DELAY.bin" md5="2504283205383c423c3d0479e630014a"/>
+  <macro name="VARIABLE_DELAY" file="VARIABLE_DELAY.bin" md5="27979f6d42f412b3fc72d4bebe8f2c7b"/>
+</scilablib>

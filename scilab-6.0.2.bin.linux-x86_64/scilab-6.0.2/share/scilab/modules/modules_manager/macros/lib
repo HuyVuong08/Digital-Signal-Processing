@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="modules_managerlib">
+  <macro name="tbx_build_blocks" file="tbx_build_blocks.bin" md5="71bb5bbc40a80ec5bd0a384ea190de51"/>
+  <macro name="tbx_build_cleaner" file="tbx_build_cleaner.bin" md5="96587b8d02056130b076a1ce7684cfd1"/>
+  <macro name="tbx_build_gateway" file="tbx_build_gateway.bin" md5="3f37ad91514f26424939ef37b105097c"/>
+  <macro name="tbx_build_gateway_clean" file="tbx_build_gateway_clean.bin" md5="4595c4cbf66187f6f81a114b23782fc1"/>
+  <macro name="tbx_build_gateway_loader" file="tbx_build_gateway_loader.bin" md5="5aa0469ecc1849d0e9d829f60160a534"/>
+  <macro name="tbx_build_help" file="tbx_build_help.bin" md5="ec993a2c2b98758b1901a7276e00bfaf"/>
+  <macro name="tbx_build_help_loader" file="tbx_build_help_loader.bin" md5="97a5940b1ef4dcdb8a23a05c6cfe89c0"/>
+  <macro name="tbx_build_loader" file="tbx_build_loader.bin" md5="ca74d62e391be38513deb7d7223629d1"/>
+  <macro name="tbx_build_localization" file="tbx_build_localization.bin" md5="ceaff2eb150467f177b455cb599002e7"/>
+  <macro name="tbx_build_macros" file="tbx_build_macros.bin" md5="ee38916186ff3130b3f1187d28013dfe"/>
+  <macro name="tbx_build_pal_loader" file="tbx_build_pal_loader.bin" md5="cd8905de8be594575a5ea3d91a97a876"/>
+  <macro name="tbx_build_src" file="tbx_build_src.bin" md5="25d7dc5d879047ac46122ad2f2c79b78"/>
+  <macro name="tbx_build_src_clean" file="tbx_build_src_clean.bin" md5="53336c7d84a6a65809b26de19c13d06f"/>
+  <macro name="tbx_builder" file="tbx_builder.bin" md5="650ebf8e737cc6933a1d7b00be068fb1"/>
+  <macro name="tbx_builder_gateway" file="tbx_builder_gateway.bin" md5="c91c35e2623cbf642395ae9ddd3e2d04"/>
+  <macro name="tbx_builder_gateway_lang" file="tbx_builder_gateway_lang.bin" md5="e8b7ee1ea685f07436ddf874aeaffb92"/>
+  <macro name="tbx_builder_help" file="tbx_builder_help.bin" md5="6c2391c8ee101233f0262a4bd10084be"/>
+  <macro name="tbx_builder_help_lang" file="tbx_builder_help_lang.bin" md5="509058afbede44b8ea5960a8e81ecbc8"/>
+  <macro name="tbx_builder_macros" file="tbx_builder_macros.bin" md5="1fd68dbfb0c32b3d738038a085cf5fac"/>
+  <macro name="tbx_builder_src" file="tbx_builder_src.bin" md5="99a1c5e5c77476083b23dc241d0b7e13"/>
+  <macro name="tbx_builder_src_lang" file="tbx_builder_src_lang.bin" md5="9027164568df54c24a01b4aa485d5193"/>
+  <macro name="tbx_generate_pofile" file="tbx_generate_pofile.bin" md5="2d7119ce3d4f413148c798fe2e3663c7"/>
+  <macro name="tbx_get_name_from_path" file="tbx_get_name_from_path.bin" md5="e9040151b5f09efc12a4e8af2f93b6ba"/>
+  <macro name="tbx_make" file="tbx_make.bin" md5="94ffa54338eef651d0a95ba2ec047c9b"/>
+</scilablib>

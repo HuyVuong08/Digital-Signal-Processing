@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="interpolationlib">
+  <macro name="interp1" file="interp1.bin" md5="c83f733ca875c08c14313dc832ac9fcb"/>
+  <macro name="interpln" file="interpln.bin" md5="6d8e277f38575a5ea2685ddd8d8884ed"/>
+  <macro name="smooth" file="smooth.bin" md5="661bf1b906e0ce5bd0ff120cd0f19391"/>
+</scilablib>

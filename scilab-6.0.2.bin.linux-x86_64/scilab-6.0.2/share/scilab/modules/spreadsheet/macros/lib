@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="spreadsheetlib">
+  <macro name="readxls" file="readxls.bin" md5="91bb6884f641034990f9015b9a096c96"/>
+</scilablib>

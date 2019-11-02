@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="optimbaselib">
+  <macro name="%TOPTIM_p" file="%TOPTIM_p.bin" md5="22bcf6e98bec643fcfe0e734a3e76e25"/>
+  <macro name="%TOPTIM_string" file="%TOPTIM_string.bin" md5="53f6ebb5a6e5347c2fdaed29807b2418"/>
+  <macro name="optimbase_cget" file="optimbase_cget.bin" md5="4bfd3e82566c5aae3a4f8f9cb5290076"/>
+  <macro name="optimbase_checkbounds" file="optimbase_checkbounds.bin" md5="37aabccb2046ca3be9a7919c17f7e835"/>
+  <macro name="optimbase_checkcostfun" file="optimbase_checkcostfun.bin" md5="c4b252bbec2191fa905edfa24d208f00"/>
+  <macro name="optimbase_checkx0" file="optimbase_checkx0.bin" md5="6d4ad586ea62207ff0d33426a5360cad"/>
+  <macro name="optimbase_configure" file="optimbase_configure.bin" md5="494545897d8e7a0ffe2bcb051a18a68d"/>
+  <macro name="optimbase_destroy" file="optimbase_destroy.bin" md5="610ba81205419a2d9d616fc6aa088328"/>
+  <macro name="optimbase_function" file="optimbase_function.bin" md5="09cd3e3c8e6c99c5041cdbe77454e9c6"/>
+  <macro name="optimbase_get" file="optimbase_get.bin" md5="77e565c936a0b2e0f4d280a8c6f06f41"/>
+  <macro name="optimbase_hasbounds" file="optimbase_hasbounds.bin" md5="b1420432386b1f672e26a83f84182d01"/>
+  <macro name="optimbase_hasconstraints" file="optimbase_hasconstraints.bin" md5="2d5c4456f009acbc4fe47da195068687"/>
+  <macro name="optimbase_hasnlcons" file="optimbase_hasnlcons.bin" md5="bc5e00075883cf1d96e4836586a8018f"/>
+  <macro name="optimbase_histget" file="optimbase_histget.bin" md5="8db7c240a597570ecf207d2552619924"/>
+  <macro name="optimbase_histset" file="optimbase_histset.bin" md5="8df739e23ad7bfd3a4e69a77c51a6349"/>
+  <macro name="optimbase_incriter" file="optimbase_incriter.bin" md5="a73c24836b0e64d0b8e26d4a80953adc"/>
+  <macro name="optimbase_isfeasible" file="optimbase_isfeasible.bin" md5="7288e3e204ebeb266cf8d8d6fb1841eb"/>
+  <macro name="optimbase_isinbounds" file="optimbase_isinbounds.bin" md5="964ff4ff9262ca4aefa4530f62717aee"/>
+  <macro name="optimbase_isinnonlincons" file="optimbase_isinnonlincons.bin" md5="a981a81a8886dd6e715e7325784d506a"/>
+  <macro name="optimbase_log" file="optimbase_log.bin" md5="e8e7795498a1f7448fc64d6534a24545"/>
+  <macro name="optimbase_logshutdown" file="optimbase_logshutdown.bin" md5="4fa448aff0d2d349657c6ae328fc3ddf"/>
+  <macro name="optimbase_logstartup" file="optimbase_logstartup.bin" md5="9b11b97f07f0d615e4bea73928ccc6aa"/>
+  <macro name="optimbase_new" file="optimbase_new.bin" md5="3afcd95c3a575e617fd7d124a710f1e2"/>
+  <macro name="optimbase_outputcmd" file="optimbase_outputcmd.bin" md5="0b0a618b806de7746f3f452c92b7dbbf"/>
+  <macro name="optimbase_outstruct" file="optimbase_outstruct.bin" md5="a2ea03d5034fa4def51cdb1166291e6c"/>
+  <macro name="optimbase_proj2bnds" file="optimbase_proj2bnds.bin" md5="e8798771e35bc461603f75ead2c4dd06"/>
+  <macro name="optimbase_set" file="optimbase_set.bin" md5="5e920e76341b56eee831e73b9ccd15dc"/>
+  <macro name="optimbase_stoplog" file="optimbase_stoplog.bin" md5="9500afa47e595d0fbcfddae191011201"/>
+  <macro name="optimbase_terminate" file="optimbase_terminate.bin" md5="44b817ee3955e887182e0ccdf4069d9f"/>
+</scilablib>

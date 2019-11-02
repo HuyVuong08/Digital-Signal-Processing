@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="xcoslib">
+  <macro name="%Block_xcosUpdateBlock" file="%Block_xcosUpdateBlock.bin" md5="836b0455c2639aacff29479e20275810"/>
+  <macro name="generateBlockImage" file="generateBlockImage.bin" md5="8b47bf9ce9a8c32ef2e5b1342060abc1"/>
+  <macro name="generateBlockImages" file="generateBlockImages.bin" md5="d3594ab3caa678434f28d36a477b6c83"/>
+  <macro name="getDiagramVersion" file="getDiagramVersion.bin" md5="f84a4c669f1110542dcda41b7b998ce1"/>
+  <macro name="getModelicaPath" file="getModelicaPath.bin" md5="d285fcd8d43ddb14e27c4560574662f5"/>
+  <macro name="importScicosPal" file="importScicosPal.bin" md5="f370cbc4695a0965b3e11bf1d2d552b0"/>
+  <macro name="importXcosDiagram" file="importXcosDiagram.bin" md5="51e372cde994ebe0ab2f5ef1a26aaf35"/>
+  <macro name="loadXcosLibs" file="loadXcosLibs.bin" md5="1ccad8027921e0de11c0a07ebcbab8dc"/>
+  <macro name="xcosBlockEval" file="xcosBlockEval.bin" md5="760212f87aa2e47d66577367793f8257"/>
+  <macro name="xcosBlockInterface" file="xcosBlockInterface.bin" md5="ddf33318947d8972aff76a58f3f58d9b"/>
+  <macro name="xcosCodeGeneration" file="xcosCodeGeneration.bin" md5="a09194e507b346064d6d9eb56809920a"/>
+  <macro name="xcosConfigureModelica" file="xcosConfigureModelica.bin" md5="783e099a88a1a67e951cec23d55eb961"/>
+  <macro name="xcosPal" file="xcosPal.bin" md5="4cde3823c54611e944f7ae18435906b4"/>
+  <macro name="xcosPalAdd" file="xcosPalAdd.bin" md5="b7d31ece0d29165958e9ac67127363b9"/>
+  <macro name="xcosPalAddBlock" file="xcosPalAddBlock.bin" md5="12012d1540ebc4ad6794c8e4655da961"/>
+  <macro name="xcosPalExport" file="xcosPalExport.bin" md5="c0b3b4dececd095222c0b5fb0c3ca83f"/>
+  <macro name="xcosPalGenerateAllIcons" file="xcosPalGenerateAllIcons.bin" md5="3a8ca9d50501691b35c215eac15209f8"/>
+  <macro name="xcosShowBlockWarning" file="xcosShowBlockWarning.bin" md5="49cdb51bfc82d5481b9004c7a586e31d"/>
+  <macro name="xcosValidateBlockSet" file="xcosValidateBlockSet.bin" md5="2c2dcb57f5c3447599dfc6cd6c4c80a5"/>
+  <macro name="xcosValidateCompareBlock" file="xcosValidateCompareBlock.bin" md5="71a7be63246a42a74a06c5d888901e0c"/>
+  <macro name="xcos_compile" file="xcos_compile.bin" md5="1133f1df188ed5afa960c28542508196"/>
+  <macro name="xcos_debug_gui" file="xcos_debug_gui.bin" md5="1982061c3ffe3a953a1b259ad43e5cd9"/>
+  <macro name="xcos_run" file="xcos_run.bin" md5="4a20a5df97ce39f9c3afc6603b6f9ae0"/>
+  <macro name="xcos_simulate" file="xcos_simulate.bin" md5="3f7aae44fd13aa7562e979917919c010"/>
+</scilablib>

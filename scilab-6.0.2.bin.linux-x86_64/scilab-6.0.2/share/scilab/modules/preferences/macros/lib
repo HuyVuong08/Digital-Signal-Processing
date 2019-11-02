@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="preferenceslib">
+  <macro name="createXConfiguration" file="createXConfiguration.bin" md5="15528256244f6cec0fba92e36cfc6ed5"/>
+  <macro name="getPreferencesValue" file="getPreferencesValue.bin" md5="8b613ed43c46a85b671d91b6436a6728"/>
+  <macro name="setPreferencesValue" file="setPreferencesValue.bin" md5="271f8c29a1406c798eff3d9e70b2254f"/>
+</scilablib>

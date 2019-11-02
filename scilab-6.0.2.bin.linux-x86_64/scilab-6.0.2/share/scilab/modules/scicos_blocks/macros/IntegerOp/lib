@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="Integeroplib">
+  <macro name="BITCLEAR" file="BITCLEAR.bin" md5="e7e80a340553355bbc15e95f695f1471"/>
+  <macro name="BITSET" file="BITSET.bin" md5="5daebf5d9177a3227a9af25b1ab108f1"/>
+  <macro name="CONVERT" file="CONVERT.bin" md5="e26bc14138eaf511769052561fc04ca2"/>
+  <macro name="DFLIPFLOP" file="DFLIPFLOP.bin" md5="000749606e1eaf5d9d736a6d3393b704"/>
+  <macro name="DLATCH" file="DLATCH.bin" md5="75b83f2b246652b533432ab52f037ecc"/>
+  <macro name="EXTRACTBITS" file="EXTRACTBITS.bin" md5="a843d8fc75a5a5cbe67152cf58727743"/>
+  <macro name="INTMUL" file="INTMUL.bin" md5="bcce3126f8d8af02464fe7cff0bb0c09"/>
+  <macro name="JKFLIPFLOP" file="JKFLIPFLOP.bin" md5="884cbb45ff236a42889567d54c08a242"/>
+  <macro name="LOGIC" file="LOGIC.bin" md5="6ecc5a9e27d895da62e7ccd08dfac4e0"/>
+  <macro name="SHIFT" file="SHIFT.bin" md5="e7dc7b22e625e62c5089658cb301f058"/>
+  <macro name="SRFLIPFLOP" file="SRFLIPFLOP.bin" md5="5b94c0100524fd359fd9f81c2e852628"/>
+</scilablib>

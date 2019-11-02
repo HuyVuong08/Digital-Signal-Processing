@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="neldermeadlib">
+  <macro name="%TNELDER_p" file="%TNELDER_p.bin" md5="a766f43ee6b443c3ea0c42312a151249"/>
+  <macro name="%TNELDER_string" file="%TNELDER_string.bin" md5="e66f7f78166d08f5a54f40015e810a60"/>
+  <macro name="%TNMPLOT_p" file="%TNMPLOT_p.bin" md5="a7755edc72bdfd2fc8af5496e2e9bac9"/>
+  <macro name="%TNMPLOT_string" file="%TNMPLOT_string.bin" md5="11174fa8fb8f826bd74a6002ddaa53c5"/>
+  <macro name="fminsearch" file="fminsearch.bin" md5="368947c1774535688c46784c9ebfb336"/>
+  <macro name="neldermead_cget" file="neldermead_cget.bin" md5="5e1118e941166cebb0e181c19549b1ed"/>
+  <macro name="neldermead_configure" file="neldermead_configure.bin" md5="19fa5118731439ce5c6ae97f8a01f932"/>
+  <macro name="neldermead_costf" file="neldermead_costf.bin" md5="657ed4bfa628adf7decb12772ae0b0d6"/>
+  <macro name="neldermead_defaultoutput" file="neldermead_defaultoutput.bin" md5="25fd6d172dadaeb7c406f356b32738e8"/>
+  <macro name="neldermead_destroy" file="neldermead_destroy.bin" md5="f1c6a61af00812338fcdffa9d1ad39e8"/>
+  <macro name="neldermead_function" file="neldermead_function.bin" md5="6b7fd3d57f0cb01636237afe2eac6b2d"/>
+  <macro name="neldermead_get" file="neldermead_get.bin" md5="1f9a8b7ec22259b65e5e2cd1ad06f435"/>
+  <macro name="neldermead_log" file="neldermead_log.bin" md5="762b1ad8111c818d57fd0c3503fbb2a8"/>
+  <macro name="neldermead_new" file="neldermead_new.bin" md5="21be1a2a1725f0bb30bf601b9b4cd5ee"/>
+  <macro name="neldermead_restart" file="neldermead_restart.bin" md5="420b33cfe0c1cdc8921146b3d9945121"/>
+  <macro name="neldermead_search" file="neldermead_search.bin" md5="5fc2d0ae44ea0259342d3966b726e6bd"/>
+  <macro name="neldermead_updatesimp" file="neldermead_updatesimp.bin" md5="f65f6c42853a9e06ac2ae7305daba0b0"/>
+  <macro name="nmplot_cget" file="nmplot_cget.bin" md5="d9c6f38d98e45a77fa62e3cb4e945f60"/>
+  <macro name="nmplot_configure" file="nmplot_configure.bin" md5="22ed8b96114a1849d78d675790be932c"/>
+  <macro name="nmplot_contour" file="nmplot_contour.bin" md5="6c89c632f7b1b2cef333134c44444483"/>
+  <macro name="nmplot_destroy" file="nmplot_destroy.bin" md5="b6bd8c7ee0fb460c63c18d8a9b1e16e7"/>
+  <macro name="nmplot_function" file="nmplot_function.bin" md5="bd557d3d53c33b86c984fad55b54c4d8"/>
+  <macro name="nmplot_get" file="nmplot_get.bin" md5="d5695f0f996de3fd114c0b5d417a8c5a"/>
+  <macro name="nmplot_historyplot" file="nmplot_historyplot.bin" md5="ccfd7d6522dc4f716a83e0432b54e110"/>
+  <macro name="nmplot_log" file="nmplot_log.bin" md5="b87374ed12afc2a04ac71f419b2766ad"/>
+  <macro name="nmplot_new" file="nmplot_new.bin" md5="a1e4c15b1a83e29c8b8be98062785188"/>
+  <macro name="nmplot_outputcmd" file="nmplot_outputcmd.bin" md5="ac104f3df4e06a7393089922787dc86b"/>
+  <macro name="nmplot_restart" file="nmplot_restart.bin" md5="2ef2dc09bc93f119ba388308607e3505"/>
+  <macro name="nmplot_search" file="nmplot_search.bin" md5="23fd4bbe2f498e4cb3cc018021fcc39e"/>
+  <macro name="nmplot_simplexhistory" file="nmplot_simplexhistory.bin" md5="3cee5a6323ad649d5883da9130b3b666"/>
+  <macro name="optimget" file="optimget.bin" md5="4424d86cb783a448e6542fd4795c83a1"/>
+  <macro name="optimplotfunccount" file="optimplotfunccount.bin" md5="29351f1996389e1c845263e21bcca6a4"/>
+  <macro name="optimplotfval" file="optimplotfval.bin" md5="2469268c6c4926b76978025cc8652985"/>
+  <macro name="optimplotx" file="optimplotx.bin" md5="f17c6947727500aba8ae541c3c253bf1"/>
+  <macro name="optimset" file="optimset.bin" md5="b850f6a0e9e9b5d87d11b2ca3c8073f1"/>
+</scilablib>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="Thresholdlib">
+  <macro name="GENERAL_f" file="GENERAL_f.bin" md5="928dd8c59bdf4fe0c226f8b1dd7f4e1a"/>
+  <macro name="NEGTOPOS_f" file="NEGTOPOS_f.bin" md5="4e8d3b55808ef3d9abf87cee6570c1cf"/>
+  <macro name="POSTONEG_f" file="POSTONEG_f.bin" md5="02b11c9ba7385734dbac2e5d812d4bc9"/>
+  <macro name="ZCROSS_f" file="ZCROSS_f.bin" md5="a586e113a1c8b629b30b8e7853ee6303"/>
+</scilablib>

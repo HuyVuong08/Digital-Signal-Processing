@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="dynamic_linklib">
+  <macro name="G_make" file="G_make.bin" md5="fa671e31c3b2843813160788b747ebf1"/>
+  <macro name="configure_msifort" file="configure_msifort.bin" md5="eefebfa2c22161bb243d4c4d798d5358"/>
+  <macro name="configure_msvc" file="configure_msvc.bin" md5="cf00f81713fe03efb2fc4d0a8772cade"/>
+  <macro name="detectmsifort64tools" file="detectmsifort64tools.bin" md5="43f2bdea199fc9d713f28b00a05f19ac"/>
+  <macro name="detectmsvc64tools" file="detectmsvc64tools.bin" md5="8f08932c95449c3ee28359cf6d5a56cb"/>
+  <macro name="dllinfo" file="dllinfo.bin" md5="4d0c9149ec2f91672b2ea8d64010521f"/>
+  <macro name="findmsifortcompiler" file="findmsifortcompiler.bin" md5="b9abfd5e0b6e051f24c24cb1e07d47e1"/>
+  <macro name="findmsvccompiler" file="findmsvccompiler.bin" md5="2e5283d4c5eb6ed67dfd31d740138376"/>
+  <macro name="gencompilationflags_unix" file="gencompilationflags_unix.bin" md5="2f76675db19cc7d86f05340fe591afa6"/>
+  <macro name="haveacompiler" file="haveacompiler.bin" md5="ec502e328158f5be2ef2261e9dff2477"/>
+  <macro name="ilib_build" file="ilib_build.bin" md5="d1eb880f7d9469e7ac6cf72808bee88a"/>
+  <macro name="ilib_build_jar" file="ilib_build_jar.bin" md5="ad0c25501ea2c3d4471b13344670e0aa"/>
+  <macro name="ilib_compile" file="ilib_compile.bin" md5="50131a75a89fbe43f87013ab526a2fa4"/>
+  <macro name="ilib_for_link" file="ilib_for_link.bin" md5="c05163b9f037b8659636cfa5778fc1c5"/>
+  <macro name="ilib_gen_Make" file="ilib_gen_Make.bin" md5="45c4758395b0d82d03e9c88765c4a9fc"/>
+  <macro name="ilib_gen_Make_unix" file="ilib_gen_Make_unix.bin" md5="a5188d45968e7f6638f75cd20478f6e6"/>
+  <macro name="ilib_gen_cleaner" file="ilib_gen_cleaner.bin" md5="c415a90f796203a9919fd1e4b9558ba1"/>
+  <macro name="ilib_gen_gateway" file="ilib_gen_gateway.bin" md5="ac0d6f4d831f1776574048fef3bfd027"/>
+  <macro name="ilib_gen_loader" file="ilib_gen_loader.bin" md5="217c1ed71f873430d099f321a0245ea0"/>
+  <macro name="ilib_include_flag" file="ilib_include_flag.bin" md5="4ceb90b07adc032a38303ecb1973a871"/>
+  <macro name="ilib_language" file="ilib_language.bin" md5="1b61ddf48e030519309aca401a45cf77"/>
+  <macro name="ilib_mex_build" file="ilib_mex_build.bin" md5="6380ac4fe04d29b998a4c38975fbb26e"/>
+</scilablib>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="corelib">
+  <macro name="OS_Version" file="OS_Version.bin" md5="a5ff930f5904d698e0663f56164dd8ee"/>
+  <macro name="check_modules_xml" file="check_modules_xml.bin" md5="afae2c38f3c04b3f3e3a54c72b1cbc48"/>
+  <macro name="check_versions" file="check_versions.bin" md5="88bbcbb327bcc37b5b7a6e4b6545c14d"/>
+  <macro name="getscilabkeywords" file="getscilabkeywords.bin" md5="4622d7d447935858f469b68ef98b302f"/>
+  <macro name="getshell" file="getshell.bin" md5="91585190ef559a2db42f4c5bf3fe1498"/>
+  <macro name="halt" file="halt.bin" md5="cd5a378d95a6f94c76c30040798ffdf9"/>
+  <macro name="isDebug" file="isDebug.bin" md5="a9f9b3516d8335294e0346b429efaac7"/>
+  <macro name="isRelease" file="isRelease.bin" md5="708193d7f63c9e01fd24b920fe0f7b34"/>
+  <macro name="toolboxes" file="toolboxes.bin" md5="3ac7af50ef358aca498d99af1af2f73b"/>
+  <macro name="ver" file="ver.bin" md5="63f6038b11bcb198d96bb8beec3a36e2"/>
+  <macro name="whereami" file="whereami.bin" md5="7df38e99cdd343f758b224dd3cc6626d"/>
+  <macro name="who_user" file="who_user.bin" md5="f9b0ef05625ca1c51592ea2dfc2e01f7"/>
+  <macro name="whos" file="whos.bin" md5="3dbd853453feb8d59980f88ceb16652c"/>
+  <macro name="with_javasci" file="with_javasci.bin" md5="5f30d8cfb997c3791be60058c9294e97"/>
+  <macro name="with_macros_source" file="with_macros_source.bin" md5="279978bdc3c4c2f832e2a6b550fabc82"/>
+  <macro name="with_tk" file="with_tk.bin" md5="c86f784263676ff47bcd804b0dc4b727"/>
+</scilablib>

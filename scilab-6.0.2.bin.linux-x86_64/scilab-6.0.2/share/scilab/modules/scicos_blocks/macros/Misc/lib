@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="Misclib">
+  <macro name="AUTOMAT" file="AUTOMAT.bin" md5="9acc008e2d956f9d99a557829cac63ad"/>
+  <macro name="BACKLASH" file="BACKLASH.bin" md5="d28cc8d85838de2f23f74abb9ce53ecf"/>
+  <macro name="BOUNCE" file="BOUNCE.bin" md5="d71523ee4b8f5ea89cf9048b6ca5cc4b"/>
+  <macro name="BOUNCEXY" file="BOUNCEXY.bin" md5="5b61739c7e6c63cb94a2170d9534fcdb"/>
+  <macro name="BPLATFORM" file="BPLATFORM.bin" md5="365b9ec06b4f2ff657f4ea6b92c044d7"/>
+  <macro name="CBLOCK" file="CBLOCK.bin" md5="dc5b5bcb56b0edea81ba01ec86081381"/>
+  <macro name="CBLOCK4" file="CBLOCK4.bin" md5="fbc449c56fdf96e70d60cefdbc16720e"/>
+  <macro name="CONSTRAINT2_c" file="CONSTRAINT2_c.bin" md5="39bbb7c28faefafa5a0ebf5af959d1a2"/>
+  <macro name="CONSTRAINT_c" file="CONSTRAINT_c.bin" md5="4dc231de88052b12e7789b60859b9209"/>
+  <macro name="DEADBAND" file="DEADBAND.bin" md5="0a84cbf2b73d80b383c61333d608a868"/>
+  <macro name="DEBUG" file="DEBUG.bin" md5="380a52b87d8747c6ad4d37abc5ebf998"/>
+  <macro name="DEBUG_SCICOS" file="DEBUG_SCICOS.bin" md5="9fb5d962e03636a70f9a649e251101c9"/>
+  <macro name="DIFF_f" file="DIFF_f.bin" md5="69deddbfd15fc37391593cfe9978bce2"/>
+  <macro name="DSUPER" file="DSUPER.bin" md5="f6c10141bd8295fa3454145745389b0f"/>
+  <macro name="EDGETRIGGER" file="EDGETRIGGER.bin" md5="82a390ace9bc3231c1c6ce87239748eb"/>
+  <macro name="EDGE_TRIGGER" file="EDGE_TRIGGER.bin" md5="584e7188c7c0f6e76378cba93f5a33d0"/>
+  <macro name="ENDBLK" file="ENDBLK.bin" md5="ee6b5b00f1c6e2deadf3f1e1c7433ed4"/>
+  <macro name="EXPRESSION" file="EXPRESSION.bin" md5="820050138f021b1177c566028406c55f"/>
+  <macro name="Extract_Activation" file="Extract_Activation.bin" md5="e78a55a646c18a4ac7c7c4d019661faf"/>
+  <macro name="HYSTHERESIS" file="HYSTHERESIS.bin" md5="8a3c142bdc3a1c13a9e0a131efc6ae00"/>
+  <macro name="IMPSPLIT_f" file="IMPSPLIT_f.bin" md5="f791f554739906ee0bba79bd76fc497c"/>
+  <macro name="LOGICAL_OP" file="LOGICAL_OP.bin" md5="40a067690cbd4b67c8d8538b2767a7b2"/>
+  <macro name="MBLOCK" file="MBLOCK.bin" md5="080e0f676dd9d1d9141d597a17c56dbb"/>
+  <macro name="MEMORY_f" file="MEMORY_f.bin" md5="1d8e0b4ac43e10bddb54182e311bb6ea"/>
+  <macro name="MPBLOCK" file="MPBLOCK.bin" md5="5e861fbcc1568a4c75ae57b4ab089d8a"/>
+  <macro name="PAL_f" file="PAL_f.bin" md5="635145801e48470950bed6b70e42fe55"/>
+  <macro name="PENDULUM_ANIM" file="PENDULUM_ANIM.bin" md5="e1689b5ac06ce3da8b5db49073d23318"/>
+  <macro name="RATELIMITER" file="RATELIMITER.bin" md5="e3c40930bf46531fbbe00032bc26b886"/>
+  <macro name="RELATIONALOP" file="RELATIONALOP.bin" md5="5315a0e23ab6b3afa72e1692ef2d8ade"/>
+  <macro name="SPLIT_f" file="SPLIT_f.bin" md5="3f074947999e81e72c1c561cde17487f"/>
+  <macro name="SUPER_f" file="SUPER_f.bin" md5="4888e39e2c54f7df2e2d0e616300044d"/>
+  <macro name="TEXT_f" file="TEXT_f.bin" md5="e0b996c300d4b3b6ca429d295a8682ee"/>
+  <macro name="anim_pen" file="anim_pen.bin" md5="5336023b9c47c364ddb550ebaf5c2bf9"/>
+  <macro name="bplatform2" file="bplatform2.bin" md5="49b679ab2aee32318dbc554cb1d933d7"/>
+  <macro name="c_block" file="c_block.bin" md5="26b23ed9dd84c9d5513c3aed6fb7b7d5"/>
+  <macro name="fortran_block" file="fortran_block.bin" md5="93d243624bef5c427139484751292d4d"/>
+  <macro name="func_block" file="func_block.bin" md5="81efeea3fab1d29b3dbfa5e793bcdcf6"/>
+  <macro name="generic_block" file="generic_block.bin" md5="b4e0c76507de5d5bf1bcf4d99af824b6"/>
+  <macro name="generic_block2" file="generic_block2.bin" md5="0bf34979722a1bc6e0270a4e0b4e024b"/>
+  <macro name="generic_block3" file="generic_block3.bin" md5="f9c8e6d9895bfdf2a296aa1d7486eb5d"/>
+  <macro name="m_sin" file="m_sin.bin" md5="70cebe25d91d42a1c843cb6290756d2d"/>
+  <macro name="scifunc_block" file="scifunc_block.bin" md5="d8933bcb56faad4cf699fc23ffa622c4"/>
+  <macro name="scifunc_block_m" file="scifunc_block_m.bin" md5="b28a1b87fc807a1bab73ba49da4cce26"/>
+</scilablib>

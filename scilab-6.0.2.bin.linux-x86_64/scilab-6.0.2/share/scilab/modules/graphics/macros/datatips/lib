@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="datatipslib">
+  <macro name="%datatips_p" file="%datatips_p.bin" md5="47adb9feec43cee5b20658e99121fcd8"/>
+  <macro name="datatipCreatePopupMenu" file="datatipCreatePopupMenu.bin" md5="2a4ebcd9430bd2ad72a7ac553ad16114"/>
+  <macro name="datatipDefaultDisplay" file="datatipDefaultDisplay.bin" md5="c9893fad8d04529ac362dfd9305b58bf"/>
+  <macro name="datatipDeleteSelected" file="datatipDeleteSelected.bin" md5="4fcde25b50c8444231daebd19de1db3b"/>
+  <macro name="datatipGUIEventHandler" file="datatipGUIEventHandler.bin" md5="00a2af63cca33a5841ffe14f4c78ee90"/>
+  <macro name="datatipGetEntities" file="datatipGetEntities.bin" md5="99cb15c49298970b7cc80eaf1fdcfc22"/>
+  <macro name="datatipGetSelected" file="datatipGetSelected.bin" md5="cd83a386d20e25e59b4775d110302cf7"/>
+  <macro name="datatipGetStruct" file="datatipGetStruct.bin" md5="fc0c9cccc90695fa393dc677b9d6f43f"/>
+  <macro name="datatipHilite" file="datatipHilite.bin" md5="47ee52684098a1827a2e5eda74576083"/>
+  <macro name="datatipManagerMode" file="datatipManagerMode.bin" md5="cc964ca63c3d043da4ae79a14a9d8bca"/>
+  <macro name="datatipMove" file="datatipMove.bin" md5="dad21efd89bf858806afb99f5dc68613"/>
+  <macro name="datatipRadioCallback" file="datatipRadioCallback.bin" md5="ce48412a5a59aa461e7f6f0b5c311e8e"/>
+  <macro name="datatipRemoveAll" file="datatipRemoveAll.bin" md5="d96b21be1037c3785a1ec1a21b41aea8"/>
+  <macro name="datatipRemoveNearest" file="datatipRemoveNearest.bin" md5="5f9ba8bb83964b57311af47385a2cdbd"/>
+  <macro name="datatipSetGUI" file="datatipSetGUI.bin" md5="4864c70345c3e9c963e9a80c33f08a68"/>
+  <macro name="datatipSetOrientation" file="datatipSetOrientation.bin" md5="d7a55edab28c01bb0c88c54a541e38a7"/>
+  <macro name="datatipSetSelected" file="datatipSetSelected.bin" md5="823cd6d0116b009810c372af53854d6c"/>
+  <macro name="datatipSetStruct" file="datatipSetStruct.bin" md5="19fbd3a9d942eb2f2177e9ef3f77bbcf"/>
+  <macro name="datatipSetStyle" file="datatipSetStyle.bin" md5="9af6bfa323ed58aace1f594d78109cdd"/>
+  <macro name="datatipSetTipPosition" file="datatipSetTipPosition.bin" md5="1ac12dfba5edb0314f88d47ddec51f7f"/>
+  <macro name="datatipSetTipStyle" file="datatipSetTipStyle.bin" md5="1c9004538001cdad7ca9fdb97596ab7a"/>
+  <macro name="datatipsGUI" file="datatipsGUI.bin" md5="1c1ea7b54ab938113c8c12e52ce1c32f"/>
+  <macro name="orthProj" file="orthProj.bin" md5="ca9764000b29f9c1c2c0029d630b05d1"/>
+  <macro name="pixDist" file="pixDist.bin" md5="71ad63199fdb738f5999292f216bbd78"/>
+  <macro name="setStringPosition" file="setStringPosition.bin" md5="76ce65575de3dc04e9627c1378f8c8f4"/>
+</scilablib>

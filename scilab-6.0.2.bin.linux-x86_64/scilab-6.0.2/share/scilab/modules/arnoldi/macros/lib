@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="arnoldilib">
+  <macro name="eigs" file="eigs.bin" md5="2fe71d679808aab4c4a57338a98d03ea"/>
+</scilablib>

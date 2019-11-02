@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="Sinkslib">
+  <macro name="AFFICH_m" file="AFFICH_m.bin" md5="0bf7f26e5f836715d02d73a53dacb9e1"/>
+  <macro name="BARXY" file="BARXY.bin" md5="3d5e9291a428ecc3b701af3e692b1f71"/>
+  <macro name="BARXY_sim" file="BARXY_sim.bin" md5="3f4cd32e1572b6e686e75ac25f62fbc9"/>
+  <macro name="CANIMXY" file="CANIMXY.bin" md5="b326b1da9e1ce624444d030ef1150276"/>
+  <macro name="CANIMXY3D" file="CANIMXY3D.bin" md5="76533cc43d0d68c6b366410a84394391"/>
+  <macro name="CEVENTSCOPE" file="CEVENTSCOPE.bin" md5="2ebe74b3f76dc1f9bfa3eb6c6eac7108"/>
+  <macro name="CFSCOPE" file="CFSCOPE.bin" md5="f32d34eb1dc98888f6c1351d561c9748"/>
+  <macro name="CLKOUTV_f" file="CLKOUTV_f.bin" md5="b731ab71b657eec710162048b0b74250"/>
+  <macro name="CLKOUT_f" file="CLKOUT_f.bin" md5="5374fc3ffb5c082db5cb4565180eeaec"/>
+  <macro name="CMAT3D" file="CMAT3D.bin" md5="58d17de8077070edaf7089314fd372be"/>
+  <macro name="CMATVIEW" file="CMATVIEW.bin" md5="8a995a9dc120fca4e28b5d4dd26db590"/>
+  <macro name="CMSCOPE" file="CMSCOPE.bin" md5="a33e73883b52f0b0d03412ab683dfb34"/>
+  <macro name="CSCOPE" file="CSCOPE.bin" md5="f07b27af9e253ff844703890cb11a618"/>
+  <macro name="CSCOPXY" file="CSCOPXY.bin" md5="09bfb77c621a5fb437714b28729da50f"/>
+  <macro name="CSCOPXY3D" file="CSCOPXY3D.bin" md5="0a5e989f9757e12ac1e11747c266d042"/>
+  <macro name="OUTIMPL_f" file="OUTIMPL_f.bin" md5="cd2925962fe13af1e206f5bde146d5fe"/>
+  <macro name="OUT_f" file="OUT_f.bin" md5="42cda8956b6d5851c0bdd846b20420d4"/>
+  <macro name="TOWS_c" file="TOWS_c.bin" md5="92fbe6e0b6b59c54ed89ac56e41600ce"/>
+  <macro name="TRASH_f" file="TRASH_f.bin" md5="71b1f3e2b334c4cb5be77298549b52b0"/>
+  <macro name="WRITEAU_f" file="WRITEAU_f.bin" md5="d4db50061aa7d22d55fd803b9140f545"/>
+  <macro name="WRITEC_f" file="WRITEC_f.bin" md5="6b6d3694505d0e54c0bef367c4c7d402"/>
+</scilablib>

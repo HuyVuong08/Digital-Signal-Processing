@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="Branchinglib">
+  <macro name="CLKFROM" file="CLKFROM.bin" md5="f409850183d902f184d3d7899be4febb"/>
+  <macro name="CLKGOTO" file="CLKGOTO.bin" md5="150198141a4896d8023f4d8a28e3d165"/>
+  <macro name="CLKGotoTagVisibility" file="CLKGotoTagVisibility.bin" md5="2fd96d4ceda9bb829c9d0c588ead045c"/>
+  <macro name="DEMUX" file="DEMUX.bin" md5="1a4b52430a6382be1df083bab63d4541"/>
+  <macro name="DEMUX_f" file="DEMUX_f.bin" md5="71f043f7c1aaae32fbb7dbac172d3d56"/>
+  <macro name="ESELECT_f" file="ESELECT_f.bin" md5="5ac0d97e67260f847ff2aa53e103c8ed"/>
+  <macro name="EXTRACTOR" file="EXTRACTOR.bin" md5="f4aea41e138fe21f83bb00d939c74148"/>
+  <macro name="FROM" file="FROM.bin" md5="19501a0b011533f295d4c5e7d473d213"/>
+  <macro name="FROMMO" file="FROMMO.bin" md5="ae36a4047bdb4e4663d106ba8cb64ab7"/>
+  <macro name="GOTO" file="GOTO.bin" md5="da6f977d85bf4bf7d81749ffbfb26b39"/>
+  <macro name="GOTOMO" file="GOTOMO.bin" md5="93e37b15ffbeb43041fd834617adf240"/>
+  <macro name="GotoTagVisibility" file="GotoTagVisibility.bin" md5="900ece70b2beefc26b64e1e04a7d1f7e"/>
+  <macro name="GotoTagVisibilityMO" file="GotoTagVisibilityMO.bin" md5="5d5e4f0f55c951c4f3a6f95ca4651573"/>
+  <macro name="ISELECT_f" file="ISELECT_f.bin" md5="9e3a2a50c5dd04a1c0e92c2844a226f0"/>
+  <macro name="ISELECT_m" file="ISELECT_m.bin" md5="5b71b7e60a0199e1556eaba37b066f84"/>
+  <macro name="MUX" file="MUX.bin" md5="34c44fbd3a4a27dd34f32b3b66c40828"/>
+  <macro name="MUX_f" file="MUX_f.bin" md5="313fe06e3bc2e919f847a4b61d6c31f8"/>
+  <macro name="M_SWITCH" file="M_SWITCH.bin" md5="e9ae000af1622016c2324d349b0463b5"/>
+  <macro name="NRMSOM_f" file="NRMSOM_f.bin" md5="34412705cd24466da08a5d2921125f6a"/>
+  <macro name="RELAY_f" file="RELAY_f.bin" md5="0485f48a8a82d4a22a7c943460e285d8"/>
+  <macro name="SCALAR2VECTOR" file="SCALAR2VECTOR.bin" md5="2b4671fa7c06d5f2a9295226cf775431"/>
+  <macro name="SELECT_f" file="SELECT_f.bin" md5="6480288cb83e615fdc87591d2dfca511"/>
+  <macro name="SELECT_m" file="SELECT_m.bin" md5="0b77080539121c18869d4f6d650dedc1"/>
+  <macro name="SELF_SWITCH" file="SELF_SWITCH.bin" md5="1e564e24a3b5889fbbde57993d981e3c"/>
+  <macro name="SWITCH2" file="SWITCH2.bin" md5="174645aaeae8af0d5327e26b07d49cf5"/>
+  <macro name="SWITCH2_m" file="SWITCH2_m.bin" md5="49ec55e85ff5f27911983346e4b3d447"/>
+  <macro name="SWITCH_f" file="SWITCH_f.bin" md5="6ca7d2b65afb541ab97298b001809525"/>
+</scilablib>

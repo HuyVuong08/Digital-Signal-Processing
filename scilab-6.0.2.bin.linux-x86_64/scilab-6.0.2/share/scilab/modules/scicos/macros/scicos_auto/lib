@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="scicos_autolib">
+  <macro name="lincos" file="lincos.bin" md5="2571e9d342ce33e2ba07bb5b6abd47ab"/>
+  <macro name="scicos_simulate" file="scicos_simulate.bin" md5="ec6eb9848f7b45576c9596fe1ac0b562"/>
+  <macro name="steadycos" file="steadycos.bin" md5="a1bb8381044026ce003e8f7e61d6eb89"/>
+</scilablib>

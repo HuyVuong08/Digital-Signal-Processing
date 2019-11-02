@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="Electricallib">
+  <macro name="CCS" file="CCS.bin" md5="b1a2e1ed193509243538826cb8bd7bba"/>
+  <macro name="CVS" file="CVS.bin" md5="ce198e047f26a8622126d44bf69ebe6e"/>
+  <macro name="Capacitor" file="Capacitor.bin" md5="74f803852252d89a4c8d0bd86592fe98"/>
+  <macro name="ConstantVoltage" file="ConstantVoltage.bin" md5="92db9db6e16c81c47f40c16ac6007c6e"/>
+  <macro name="CurrentSensor" file="CurrentSensor.bin" md5="a4ee8014ad1e19f32c2c0271ad06a1d5"/>
+  <macro name="Diode" file="Diode.bin" md5="8e6e347279c39a4ab00ca776d821d139"/>
+  <macro name="Ground" file="Ground.bin" md5="cd8c3d9db2a0cfa0b37acb75b172d640"/>
+  <macro name="Gyrator" file="Gyrator.bin" md5="e1ddb6145847d4aced5e7127e40a4756"/>
+  <macro name="IdealTransformer" file="IdealTransformer.bin" md5="93f1218ab400773bac8cf9002e9a48b3"/>
+  <macro name="Inductor" file="Inductor.bin" md5="c97eae798539a2ac55f1eaaadcff5c53"/>
+  <macro name="MOTOR" file="MOTOR.bin" md5="f5de078801911de349cc5c50a84fd6e8"/>
+  <macro name="NMOS" file="NMOS.bin" md5="75e5dec9876b8770341831c39bbada92"/>
+  <macro name="NPN" file="NPN.bin" md5="b9e6a59b4435e1200122f96e08031863"/>
+  <macro name="OpAmp" file="OpAmp.bin" md5="6953f85223bc7dfcaf182b8cc933e9bb"/>
+  <macro name="PMOS" file="PMOS.bin" md5="ed745622c09921096421dc49674992fb"/>
+  <macro name="PNP" file="PNP.bin" md5="2f582f6fc4a6a3161944921cc4aa4a4b"/>
+  <macro name="PotentialSensor" file="PotentialSensor.bin" md5="fdf8e09dbfde87604a56300c29927170"/>
+  <macro name="Resistor" file="Resistor.bin" md5="e54e73b44cf25a3b7ec46b48304499e5"/>
+  <macro name="SineVoltage" file="SineVoltage.bin" md5="1097ea1bdead00ef577b10e80929e660"/>
+  <macro name="Switch" file="Switch.bin" md5="12533eab91e5d34ffc53218a59be27fc"/>
+  <macro name="VVsourceAC" file="VVsourceAC.bin" md5="df530eb78691e04712b6e235a70f5d95"/>
+  <macro name="VariableResistor" file="VariableResistor.bin" md5="bd909f7bb24360e5943cd740b8e99a51"/>
+  <macro name="VoltageSensor" file="VoltageSensor.bin" md5="30a6037720d7be3738fe9b471d144c78"/>
+  <macro name="VsourceAC" file="VsourceAC.bin" md5="da9a27225ab298eb3b6080daa84f420b"/>
+</scilablib>

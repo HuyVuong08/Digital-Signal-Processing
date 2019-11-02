@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="optimizationlib">
+  <macro name="%mps_p" file="%mps_p.bin" md5="0c55024e1371469eb8ef42b613f66444"/>
+  <macro name="%mps_string" file="%mps_string.bin" md5="963ec520f50eb4a2b24319c472f25b95"/>
+  <macro name="NDcost" file="NDcost.bin" md5="968cb1bf01ad04e64d3fd0168a82e2b3"/>
+  <macro name="aplat" file="aplat.bin" md5="4e8bfc5ac4bdcb59702d86d199827c93"/>
+  <macro name="bvodeS" file="bvodeS.bin" md5="4800b7dcc26c519b43b3c60ae5131a97"/>
+  <macro name="datafit" file="datafit.bin" md5="e3434216b9dc88ac0dde0e8cc965b9b2"/>
+  <macro name="karmarkar" file="karmarkar.bin" md5="661eab09f47c300684efe14b23c23971"/>
+  <macro name="leastsq" file="leastsq.bin" md5="92a75490fdb58667889315823e7f62e4"/>
+  <macro name="list2vec" file="list2vec.bin" md5="b50e4d0b3d0b5497bcee45bbc96d9262"/>
+  <macro name="lmisolver" file="lmisolver.bin" md5="dd966a976aae92283d1afbc3851b5f5d"/>
+  <macro name="lmitool" file="lmitool.bin" md5="e15c13facceb83aa13b7ece7e4ad3cfb"/>
+  <macro name="pack" file="pack.bin" md5="cd1db7aebaa22c8f9242838cc52f7bb2"/>
+  <macro name="pencost" file="pencost.bin" md5="66a60423d85d562fb37984b96b91dff1"/>
+  <macro name="qpsolve" file="qpsolve.bin" md5="d5bd235abe3dbfbc6679acb0eb641e5a"/>
+  <macro name="recons" file="recons.bin" md5="d3a0fae676d8904434ba78fa8502221f"/>
+  <macro name="unpack" file="unpack.bin" md5="9628dee0a9457f049d92253a8885d700"/>
+  <macro name="vec2list" file="vec2list.bin" md5="3351641874c2ed58cd8208d0dc73e0ab"/>
+</scilablib>

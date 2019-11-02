@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="optimsimplexlib">
+  <macro name="%TSIMPLEX_p" file="%TSIMPLEX_p.bin" md5="dfb32be5f980097030f3da35ea5cfea9"/>
+  <macro name="%TSIMPLEX_string" file="%TSIMPLEX_string.bin" md5="e6d76f7e459c28639f9b7c3a75605584"/>
+  <macro name="optimsimplex_center" file="optimsimplex_center.bin" md5="3e47356491bbc32425c2278ec79a2c12"/>
+  <macro name="optimsimplex_check" file="optimsimplex_check.bin" md5="d3b173f79694e620c296947e9cd7a298"/>
+  <macro name="optimsimplex_compsomefv" file="optimsimplex_compsomefv.bin" md5="76eceed4e0addf97cde0f1fe4847f529"/>
+  <macro name="optimsimplex_computefv" file="optimsimplex_computefv.bin" md5="7c337714c6773ab039628da115ed7f20"/>
+  <macro name="optimsimplex_deltafv" file="optimsimplex_deltafv.bin" md5="c75775620eb77d8286d7124fc0fd67d2"/>
+  <macro name="optimsimplex_deltafvmax" file="optimsimplex_deltafvmax.bin" md5="ca78734d325ec411d5f0cdd224d93e28"/>
+  <macro name="optimsimplex_destroy" file="optimsimplex_destroy.bin" md5="641ddc173655a02b3d525f14484c6172"/>
+  <macro name="optimsimplex_dirmat" file="optimsimplex_dirmat.bin" md5="641b32ff31b67b4f4ec1e4b7ea7b897d"/>
+  <macro name="optimsimplex_fvmean" file="optimsimplex_fvmean.bin" md5="13712d977ee4cf25211e40452f891553"/>
+  <macro name="optimsimplex_fvstdev" file="optimsimplex_fvstdev.bin" md5="e66bd6d683b1aa821ba25159c707b375"/>
+  <macro name="optimsimplex_fvvariance" file="optimsimplex_fvvariance.bin" md5="6f3011f5af87cd495594a64686f1f06a"/>
+  <macro name="optimsimplex_getall" file="optimsimplex_getall.bin" md5="6f4c96830c2f15c33d481616967a4c8c"/>
+  <macro name="optimsimplex_getallfv" file="optimsimplex_getallfv.bin" md5="61ce2d9ad78e8cd1188aca7d3dae81e3"/>
+  <macro name="optimsimplex_getallx" file="optimsimplex_getallx.bin" md5="6c00f43921224cfcf3d08c661a6258df"/>
+  <macro name="optimsimplex_getfv" file="optimsimplex_getfv.bin" md5="e903648ab25bd74645de7e22761ffda4"/>
+  <macro name="optimsimplex_getn" file="optimsimplex_getn.bin" md5="5280c4938c38a42fe3735055fa9edc51"/>
+  <macro name="optimsimplex_getnbve" file="optimsimplex_getnbve.bin" md5="136bc14d221a8d3e384aecdfeae62785"/>
+  <macro name="optimsimplex_getve" file="optimsimplex_getve.bin" md5="7fe1ec98d6121d9c52ce4a81c7578dc3"/>
+  <macro name="optimsimplex_getx" file="optimsimplex_getx.bin" md5="ecd2425bb2c173d2bdc3e68c581c2a24"/>
+  <macro name="optimsimplex_gradientfv" file="optimsimplex_gradientfv.bin" md5="606a88f0daf7058d26724e22a99e3a2c"/>
+  <macro name="optimsimplex_log" file="optimsimplex_log.bin" md5="b5e7c26b69dbccd3b0a41d06970f129d"/>
+  <macro name="optimsimplex_new" file="optimsimplex_new.bin" md5="c9fcd860771202b013b07b5702613176"/>
+  <macro name="optimsimplex_reflect" file="optimsimplex_reflect.bin" md5="61007d5ba7fc17c5099d33a385963038"/>
+  <macro name="optimsimplex_setall" file="optimsimplex_setall.bin" md5="dde84fe03915d2dbc364a8c54d6fbf4a"/>
+  <macro name="optimsimplex_setallfv" file="optimsimplex_setallfv.bin" md5="90aae5d7ef1e53d2ae967f41a947bd33"/>
+  <macro name="optimsimplex_setallx" file="optimsimplex_setallx.bin" md5="0521dae0db53d92e73058f2f89b1cd6e"/>
+  <macro name="optimsimplex_setfv" file="optimsimplex_setfv.bin" md5="815d54be46b20f7c3ef115b0c409d35a"/>
+  <macro name="optimsimplex_setn" file="optimsimplex_setn.bin" md5="a4bbc914c610a5203d813e13a3951422"/>
+  <macro name="optimsimplex_setnbve" file="optimsimplex_setnbve.bin" md5="64efca2519e2d15e899b2584e4581899"/>
+  <macro name="optimsimplex_setve" file="optimsimplex_setve.bin" md5="30f1fc8c9e2568c370c4d624f9afae6d"/>
+  <macro name="optimsimplex_setx" file="optimsimplex_setx.bin" md5="434e211731b507db094bcaf693d441c6"/>
+  <macro name="optimsimplex_shrink" file="optimsimplex_shrink.bin" md5="655f587a9b4081bd871493aa7fae7bf3"/>
+  <macro name="optimsimplex_size" file="optimsimplex_size.bin" md5="cfc70b9cf23e1baff35fc7d5d28e0dad"/>
+  <macro name="optimsimplex_sort" file="optimsimplex_sort.bin" md5="7c13738ac283352a588c0d9371795cc2"/>
+  <macro name="optimsimplex_xbar" file="optimsimplex_xbar.bin" md5="1dc2b0fb6035128445d7a5563e2a61fa"/>
+</scilablib>

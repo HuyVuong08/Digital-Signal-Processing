@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="simulated_annealinglib">
+  <macro name="accept_func_default" file="accept_func_default.bin" md5="bcc68b4227576a1db24caf7fd3731164"/>
+  <macro name="accept_func_vfsa" file="accept_func_vfsa.bin" md5="3e9e0ae25168705849293e4a2c45fbdb"/>
+  <macro name="compute_initial_temp" file="compute_initial_temp.bin" md5="c92e760223fed56bf735902ce6d33a3b"/>
+  <macro name="neigh_func_csa" file="neigh_func_csa.bin" md5="4e853b976b83b922a02386b06c9fd9da"/>
+  <macro name="neigh_func_default" file="neigh_func_default.bin" md5="5bd7701c55dc65d1ac1a50e6f0bd0da6"/>
+  <macro name="neigh_func_fsa" file="neigh_func_fsa.bin" md5="1adeea0d417fcc8fa438c43fb666ef0e"/>
+  <macro name="neigh_func_vfsa" file="neigh_func_vfsa.bin" md5="e180b7f52ad82cd91e6347deee899b00"/>
+  <macro name="optim_sa" file="optim_sa.bin" md5="80162a39cfcb9ab611bd13975969b351"/>
+  <macro name="temp_law_csa" file="temp_law_csa.bin" md5="5df82b099dad13fa86fae33eae6aebd6"/>
+  <macro name="temp_law_default" file="temp_law_default.bin" md5="9476d03c113c0ea2d7940f53f128b186"/>
+  <macro name="temp_law_fsa" file="temp_law_fsa.bin" md5="54b8b16f60c0b8fe1ec598bad34c415e"/>
+  <macro name="temp_law_huang" file="temp_law_huang.bin" md5="9299cac2ebb494c11eb2ebb16600746d"/>
+  <macro name="temp_law_vfsa" file="temp_law_vfsa.bin" md5="181704a1630972d057adc05438dd6dc8"/>
+</scilablib>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="randliblib">
+  <macro name="%b_grand" file="%b_grand.bin" md5="4b4285eaff5760943aa611143da61b2f"/>
+  <macro name="%c_grand" file="%c_grand.bin" md5="e3f69d4a22affdab2a8f5c20f4ce5b9b"/>
+  <macro name="%grand_perm" file="%grand_perm.bin" md5="513bf72f3eb708e45a1f09b05b5941ce"/>
+  <macro name="%i_grand" file="%i_grand.bin" md5="3a0cf0a495f336bf3338998e795885b8"/>
+  <macro name="%p_grand" file="%p_grand.bin" md5="2574b37c57049e96c8251fa100ed721d"/>
+  <macro name="%s_grand" file="%s_grand.bin" md5="63224cf2cdbe397a0ef53d7709ddcea9"/>
+  <macro name="%sp_grand" file="%sp_grand.bin" md5="32a6aa60fb8a85fcb7cee5ead8607dfe"/>
+</scilablib>

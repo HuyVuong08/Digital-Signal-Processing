@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="external_objectslib">
+  <macro name="#_deff_wrapper" file="#_deff_wrapper.bin" md5="2880c6d8323ea55942daec4b43744ce3"/>
+  <macro name="%_EVoid_p" file="%_EVoid_p.bin" md5="64165706c52e27a9a5fd8a65476a2f4d"/>
+</scilablib>

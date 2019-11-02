@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="scinoteslib">
+  <macro name="edit" file="edit.bin" md5="3c28396c61ce2e0ffda8cd7c9c2a3307"/>
+  <macro name="edit_error" file="edit_error.bin" md5="5c2057006c8eaddf04710d109bcfef4e"/>
+  <macro name="editor" file="editor.bin" md5="a5c11f98bbf937e77c2f1fad5ab48e62"/>
+</scilablib>

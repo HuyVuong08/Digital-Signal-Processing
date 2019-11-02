@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="differential_equationlib">
+  <macro name="dae" file="dae.bin" md5="e074f4daa022e8dea4d5ea07fc391589"/>
+  <macro name="daeoptions" file="daeoptions.bin" md5="16ba0116e2d9d4d9e1a11f44b881b649"/>
+  <macro name="intc" file="intc.bin" md5="385a75b189b8e6b9268bf4d761bf6a7b"/>
+  <macro name="integrate" file="integrate.bin" md5="825af10d1572ecef2eb110c1c4309762"/>
+  <macro name="intl" file="intl.bin" md5="7492040eb933afdfd97db4fd0660c1b9"/>
+  <macro name="intsplin" file="intsplin.bin" md5="1533b23fa292e7e02e18fbb6b86c4505"/>
+  <macro name="inttrap" file="inttrap.bin" md5="345e6889f6cea1ee4d3a890a9706b99b"/>
+  <macro name="numderivative" file="numderivative.bin" md5="0eb20ea53158ca73514f27a7ca79e710"/>
+  <macro name="odeoptions" file="odeoptions.bin" md5="bd4b962f37bcefabd2d9311d8a71232f"/>
+</scilablib>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="umfpacklib">
+  <macro name="PlotSparse" file="PlotSparse.bin" md5="4b59a0c0a02ab9e8acf968cb39dc8fd4"/>
+  <macro name="ReadHBSparse" file="ReadHBSparse.bin" md5="5d30aa5c5b25add216a2f125ef923d26"/>
+  <macro name="ana_style" file="ana_style.bin" md5="1591245408a76f604f11b407e0af5680"/>
+  <macro name="cond2sp" file="cond2sp.bin" md5="6ef856c695fff995ab90f33ae8287859"/>
+  <macro name="condestsp" file="condestsp.bin" md5="5142c11277ae815ed2963c46af6010bf"/>
+  <macro name="replace_Ix_by_Fx" file="replace_Ix_by_Fx.bin" md5="3dfa3d217aa2960a76779fcdbe904a63"/>
+  <macro name="scisptdemo" file="scisptdemo.bin" md5="e7f329c27ac60ac5d7780c91794391a3"/>
+  <macro name="test_on_columns" file="test_on_columns.bin" md5="616e5c5e77fe51e33f8d326f23b1236b"/>
+</scilablib>

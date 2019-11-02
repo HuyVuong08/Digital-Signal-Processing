@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="helptoolslib">
+  <macro name="add_help_chapter" file="add_help_chapter.bin" md5="e42d0f2a959f1477d63e129aa4e762b8"/>
+  <macro name="add_module_help_chapter" file="add_module_help_chapter.bin" md5="4197fe9a215580a843313b4ce6709da8"/>
+  <macro name="apropos" file="apropos.bin" md5="90a9b1b84e5da74f387ebf9d48c41bfa"/>
+  <macro name="clean_help" file="clean_help.bin" md5="5ba5f24a70b1f6063b19ea75f38f60f1"/>
+  <macro name="del_help_chapter" file="del_help_chapter.bin" md5="db50ab17299d56bbf15dd27015534806"/>
+  <macro name="del_module_help_chapter" file="del_module_help_chapter.bin" md5="d226a52ea4f5585d7ee92d8333ce0f56"/>
+  <macro name="find_links" file="find_links.bin" md5="a698441756ee8b659c6b65bd763e2c3e"/>
+  <macro name="help" file="help.bin" md5="39470f11129004a435228911f63d06a0"/>
+  <macro name="help_from_sci" file="help_from_sci.bin" md5="ba6b82ea97a252fdf956004cd9ad0fdf"/>
+  <macro name="help_skeleton" file="help_skeleton.bin" md5="b2b31592184c7b4dd937ecb36c7bdbc2"/>
+  <macro name="manedit" file="manedit.bin" md5="21421caf4f58d5988971d675a66db64d"/>
+  <macro name="xmltoformat" file="xmltoformat.bin" md5="55bb642b5367a52e7c135a3fbf92c874"/>
+  <macro name="xmltohtml" file="xmltohtml.bin" md5="66006884edd35385032fbd8f8c393ce6"/>
+  <macro name="xmltojar" file="xmltojar.bin" md5="dc7e82eb2d2c20d995923cc2d980cc3b"/>
+  <macro name="xmltopdf" file="xmltopdf.bin" md5="ac645cc1797a35120abca2992d7f3823"/>
+  <macro name="xmltops" file="xmltops.bin" md5="16dfd122deb81c6a57a2c59d796c7c84"/>
+  <macro name="xmltoweb" file="xmltoweb.bin" md5="7cf378352bed2dc6a6327d5642805e50"/>
+</scilablib>

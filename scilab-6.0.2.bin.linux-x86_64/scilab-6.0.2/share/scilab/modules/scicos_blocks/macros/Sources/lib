@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="Sourceslib">
+  <macro name="CLKINV_f" file="CLKINV_f.bin" md5="7b062a404fedf9b75566ccead93cda63"/>
+  <macro name="CLKIN_f" file="CLKIN_f.bin" md5="0c5e0466f18605771f4717a83eb76a58"/>
+  <macro name="CLOCK_c" file="CLOCK_c.bin" md5="00357fb465aaccc2799d851c1438fd62"/>
+  <macro name="CLOCK_f" file="CLOCK_f.bin" md5="2cd3fd8ba397195d0959c914db13a9b9"/>
+  <macro name="CONST" file="CONST.bin" md5="019491084a7b295eb583c77e8537cbf8"/>
+  <macro name="CONST_f" file="CONST_f.bin" md5="20163c86678f68daef7d56fd110e4f3d"/>
+  <macro name="CONST_m" file="CONST_m.bin" md5="fb6b9a4961cbdd1df5436dd051efec73"/>
+  <macro name="CURVE_c" file="CURVE_c.bin" md5="27c7583485b099f8be37181c87a7f249"/>
+  <macro name="CURV_f" file="CURV_f.bin" md5="56cc966c54e4267e36a8c6dbd224025c"/>
+  <macro name="Counter" file="Counter.bin" md5="3d8ea2ae9d6a042936f169050848bcf2"/>
+  <macro name="FROMWSB" file="FROMWSB.bin" md5="e419e8be0f8a8b15ea3e2934cd74dd58"/>
+  <macro name="FROMWS_c" file="FROMWS_c.bin" md5="d7be353dcc4bc10a062a851f0ec402c1"/>
+  <macro name="GENSIN_f" file="GENSIN_f.bin" md5="2ce3f5d0f43693591d204b1134fe28a3"/>
+  <macro name="GENSQR_f" file="GENSQR_f.bin" md5="ca573d1f68729bdbeeccdc05bb9f8b56"/>
+  <macro name="GEN_SQR" file="GEN_SQR.bin" md5="0e3c0b8ac8926d4e478a7514dce11044"/>
+  <macro name="Ground_g" file="Ground_g.bin" md5="4754ae43dc94b1e9078d7d277e745317"/>
+  <macro name="INIMPL_f" file="INIMPL_f.bin" md5="2f322c08cb04478dcb80bf48b51f0d5c"/>
+  <macro name="IN_f" file="IN_f.bin" md5="d961f55a7ebed66031eb9567463ccb24"/>
+  <macro name="Modulo_Count" file="Modulo_Count.bin" md5="7169eb1954003e8d690b37ac8095c1b0"/>
+  <macro name="PULSE_SC" file="PULSE_SC.bin" md5="c28e8b435d5eaf11c8b2ef6fbf8cb384"/>
+  <macro name="RAMP" file="RAMP.bin" md5="5138de42110c41f80a6a777bb3e4c538"/>
+  <macro name="RAND_f" file="RAND_f.bin" md5="13c08d1da71018cfa30937547be23eca"/>
+  <macro name="RAND_m" file="RAND_m.bin" md5="79e798afab233aad5837552bdc449a2f"/>
+  <macro name="READAU_f" file="READAU_f.bin" md5="961d1ce30d8e3d7539120f175bceefd5"/>
+  <macro name="READC_f" file="READC_f.bin" md5="c2ac19c35322740a6eba3e04ab31bae4"/>
+  <macro name="RFILE_f" file="RFILE_f.bin" md5="4ef36ba19f09d7cba86e2d0c7d4a56d2"/>
+  <macro name="SAWTOOTH_f" file="SAWTOOTH_f.bin" md5="f8355dde3d61f4691bb147249bffef15"/>
+  <macro name="STEP" file="STEP.bin" md5="bb0ab3123b061cb7813c0d17afca3b3e"/>
+  <macro name="STEP_FUNCTION" file="STEP_FUNCTION.bin" md5="e5d810ea525e7e9520efa0dbdd0eb6e6"/>
+  <macro name="SampleCLK" file="SampleCLK.bin" md5="41739871af45a7033eb63a0d74fe445f"/>
+  <macro name="Sigbuilder" file="Sigbuilder.bin" md5="40afb534364bf311cf03479293dd29fe"/>
+  <macro name="TIME_f" file="TIME_f.bin" md5="2d619cf96d88677dd8081dc5635243aa"/>
+  <macro name="TKSCALE" file="TKSCALE.bin" md5="ffa6e6ca191add53d1185f2e23d7a406"/>
+  <macro name="tkscaleblk" file="tkscaleblk.bin" md5="7e7ceb5bdf9b9eecbf8817188de74807"/>
+</scilablib>

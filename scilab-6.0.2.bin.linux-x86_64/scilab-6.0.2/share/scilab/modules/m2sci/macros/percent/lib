@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="m2scipercentlib">
+  <macro name="%02sci" file="%02sci.bin" md5="9e2a065916390a1a059154a8ba4cff37"/>
+  <macro name="%52sci" file="%52sci.bin" md5="c3acc5f8e999d1e3ad44a618fbffa50f"/>
+  <macro name="%a2sci" file="%a2sci.bin" md5="65560923e0f1c2108575449e9f5abb5c"/>
+  <macro name="%cc2sci" file="%cc2sci.bin" md5="4d252f1df138d24a691e2556c2c2f64e"/>
+  <macro name="%cc_cell2sci" file="%cc_cell2sci.bin" md5="ad5c74197579b66461488bdd102ea084"/>
+  <macro name="%d2sci" file="%d2sci.bin" md5="1604392b385b794720ed1bd9c6f9db0a"/>
+  <macro name="%e2sci" file="%e2sci.bin" md5="0b5b603c4f1c3ba793c3b0cc8421353b"/>
+  <macro name="%e_ce2sci" file="%e_ce2sci.bin" md5="7d34043176dd73ebe8f53728a1e83da8"/>
+  <macro name="%e_st2sci" file="%e_st2sci.bin" md5="c04cd716f5284e6a91fac4bfbc72984a"/>
+  <macro name="%g2sci" file="%g2sci.bin" md5="43fefa15620c2f9d5ce3e91de12ce49e"/>
+  <macro name="%h2sci" file="%h2sci.bin" md5="42559416247b49918726c53faef5e4c4"/>
+  <macro name="%i2sci" file="%i2sci.bin" md5="59e921476f64c649ada44188ddad1f2d"/>
+  <macro name="%i2sci_c" file="%i2sci_c.bin" md5="8b770b3bc290bf28fa24bdb2d70cb9e4"/>
+  <macro name="%i2sci_g" file="%i2sci_g.bin" md5="5b6e40ea747b3ddd0d5ede4864853531"/>
+  <macro name="%i2sci_r" file="%i2sci_r.bin" md5="5d10402fc22ab03421862f456755ebb6"/>
+  <macro name="%i2sci_s" file="%i2sci_s.bin" md5="d7e33abc1a9230da6e80843b3eb2e6be"/>
+  <macro name="%i_ce2sci" file="%i_ce2sci.bin" md5="189004ad47efe6b1853dbff737f7ca12"/>
+  <macro name="%i_st2sci" file="%i_st2sci.bin" md5="fd6cf59565be7ff54367b7519c0d8376"/>
+  <macro name="%imp2sci" file="%imp2sci.bin" md5="47bf289bf55ec798230d6a6fc329171c"/>
+  <macro name="%j2sci" file="%j2sci.bin" md5="e6bdef6fc05de08f9f127598bfe37407"/>
+  <macro name="%l2sci" file="%l2sci.bin" md5="80b883d5ebe42b7876c497123419dac3"/>
+  <macro name="%log2sci" file="%log2sci.bin" md5="2d1c23efc317f3e33b38f8b6094b1aa4"/>
+  <macro name="%m2sci" file="%m2sci.bin" md5="18c85f464a77adee6ba57156fb36f813"/>
+  <macro name="%p2sci" file="%p2sci.bin" md5="4ccface6abc3ec6717c18b86f7fa606f"/>
+  <macro name="%q2sci" file="%q2sci.bin" md5="836fbb3a0b2d5d568bc3f0416ecdeb96"/>
+  <macro name="%r2sci" file="%r2sci.bin" md5="d84c7b0dbd7c4320a11b48512b739d4c"/>
+  <macro name="%rc2sci" file="%rc2sci.bin" md5="ce435818e5bf3b61f4e5fffe686a9c31"/>
+  <macro name="%rc_cell2sci" file="%rc_cell2sci.bin" md5="8edaab992dc4473ef98c3d218d106501"/>
+  <macro name="%s2sci" file="%s2sci.bin" md5="4692b780b5c752621c056da9084c23d9"/>
+  <macro name="%t2sci" file="%t2sci.bin" md5="86b19634884627d922875d87048d4547"/>
+  <macro name="%x2sci" file="%x2sci.bin" md5="a8959029fc36800b4a62cb1e8bbfdce1"/>
+  <macro name="get_contents_infer" file="get_contents_infer.bin" md5="9a3f03dce36455d98b6ffd203d68db49"/>
+</scilablib>

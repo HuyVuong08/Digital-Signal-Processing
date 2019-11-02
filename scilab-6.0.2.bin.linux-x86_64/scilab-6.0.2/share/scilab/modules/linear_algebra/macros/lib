@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="linear_algebralib">
+  <macro name="aff2ab" file="aff2ab.bin" md5="2238802cbad47dd799515d4b227f51fc"/>
+  <macro name="classmarkov" file="classmarkov.bin" md5="badc196956a17fd5d6c6ad6f26d7f5fc"/>
+  <macro name="coff" file="coff.bin" md5="e60c4dd0e41044c324ea3bd4d6c617ab"/>
+  <macro name="colcomp" file="colcomp.bin" md5="839a2f64d80781f7f0c83a5819633e3e"/>
+  <macro name="companion" file="companion.bin" md5="a3add7dac6078ebd8a7a08a527f27a11"/>
+  <macro name="cond" file="cond.bin" md5="a5aa84ca41708c2fca77c42cf12fa0d6"/>
+  <macro name="diff" file="diff.bin" md5="315a3a1d0fa4b22dc1391c5dbee41960"/>
+  <macro name="eigenmarkov" file="eigenmarkov.bin" md5="fff2abac9a07aa8c8adaee7700cc4e17"/>
+  <macro name="fullrf" file="fullrf.bin" md5="f42ff5e49359437a55af10f5d51fc3c7"/>
+  <macro name="fullrfk" file="fullrfk.bin" md5="b00644876bbb686bc10d114bc8d9d312"/>
+  <macro name="genmarkov" file="genmarkov.bin" md5="d598144bb1abec345e84a1b930cfb545"/>
+  <macro name="givens" file="givens.bin" md5="eca4bd52c62729f35e4caa01809f89f8"/>
+  <macro name="glever" file="glever.bin" md5="00b56e6fb5bab5b4b82cf652a1e733e9"/>
+  <macro name="householder" file="householder.bin" md5="f3ae2545cc321851249a0694aabb7cf7"/>
+  <macro name="im_inv" file="im_inv.bin" md5="b8627ae8b071ebd57b0056d0099308f8"/>
+  <macro name="kernel" file="kernel.bin" md5="ae77c03fdc59f4e04fcdc77a7e7e7414"/>
+  <macro name="kroneck" file="kroneck.bin" md5="8d84bbc003e2f36d766afa36bb081229"/>
+  <macro name="linsolve" file="linsolve.bin" md5="d3773aa920b278220a38f9ffa58072ae"/>
+  <macro name="nlev" file="nlev.bin" md5="53ec1a12c89c611395e6e44beabc9a47"/>
+  <macro name="orth" file="orth.bin" md5="64a35202dad81a9f1409ee1b7a79dfe0"/>
+  <macro name="pbig" file="pbig.bin" md5="9f2fb12889e2db81e3f3b7c5a2519200"/>
+  <macro name="pen2ea" file="pen2ea.bin" md5="9129425dc7aec0a96f3b03092cbad1a4"/>
+  <macro name="pencan" file="pencan.bin" md5="d36f0f47c3a19a86b4b09591dc482920"/>
+  <macro name="penlaur" file="penlaur.bin" md5="4aa8e97dec7e9549c45dee44f23cae01"/>
+  <macro name="pinv" file="pinv.bin" md5="36a9b6296fe0f59edbae7cde69d50d80"/>
+  <macro name="polar" file="polar.bin" md5="c0826e3083d8f12fd0f7585863e20cf2"/>
+  <macro name="proj" file="proj.bin" md5="e823e67c7be8f0d18d6adedf16379c05"/>
+  <macro name="projspec" file="projspec.bin" md5="9489161bdae9e68f4ffab55873e597f2"/>
+  <macro name="psmall" file="psmall.bin" md5="13c22eb5629fa758a4660d1159c205df"/>
+  <macro name="quaskro" file="quaskro.bin" md5="674a62cbc2b8e2183322599f08cf6bcd"/>
+  <macro name="randpencil" file="randpencil.bin" md5="edcb7bde7e976c9e63eb60b3af6c7ca4"/>
+  <macro name="range" file="range.bin" md5="f9f95a7a42229795f6729872aa32e825"/>
+  <macro name="rank" file="rank.bin" md5="50f9fdf83c1d24a498f6ca85fb164233"/>
+  <macro name="rowcomp" file="rowcomp.bin" md5="04d6f026174a2bd691796a0b7ca21ccb"/>
+  <macro name="rowshuff" file="rowshuff.bin" md5="ece4177ea2431f9708400f16d2574c5e"/>
+  <macro name="rref" file="rref.bin" md5="2abc1e6b5d07451d28ac3c4d3584b264"/>
+  <macro name="spaninter" file="spaninter.bin" md5="f8be7e0153cbb0f60495a9a6826e1899"/>
+  <macro name="spanplus" file="spanplus.bin" md5="9ab76425d8a6ff623193b0662e973934"/>
+  <macro name="spantwo" file="spantwo.bin" md5="6065c2522cd7a09167d1b815cd2af682"/>
+  <macro name="sqroot" file="sqroot.bin" md5="c6fc210f94cd887d656532f354c8b266"/>
+  <macro name="squeeze" file="squeeze.bin" md5="0b2ab7bfaff8e78fb400d1c25964ff92"/>
+  <macro name="sva" file="sva.bin" md5="c3de0e2b5fdda8aa1e49b166fc2ada9a"/>
+  <macro name="trace" file="trace.bin" md5="8425b6ecccff5ba1a0ea97233ab3f2a2"/>
+</scilablib>

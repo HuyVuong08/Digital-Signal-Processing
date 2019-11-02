@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="matiolib">
+  <macro name="loadmatfile" file="loadmatfile.bin" md5="260a1204348973e33039c6287ff27f7e"/>
+  <macro name="matfile2sci" file="matfile2sci.bin" md5="6af052c1b8a8959e04609a3d1a8bc42e"/>
+  <macro name="savematfile" file="savematfile.bin" md5="6f66d3dc02e1208530091cc213dae9b2"/>
+</scilablib>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="data_structureslib">
+  <macro name="cell2mat" file="cell2mat.bin" md5="3e08aa35805ffb2976ea25dd87202ad3"/>
+  <macro name="cellstr" file="cellstr.bin" md5="ace61c4708afeb24b431c3b689b88ee1"/>
+  <macro name="hypermat" file="hypermat.bin" md5="33f30a96fa8a3cc339aa1e0bbe991aa4"/>
+  <macro name="iscell" file="iscell.bin" md5="540627f6095e959d68c0f308dffd9952"/>
+  <macro name="iscellstr" file="iscellstr.bin" md5="efa10880227746eee39fd4c556f562f6"/>
+  <macro name="isstruct" file="isstruct.bin" md5="24e240c4067aa5c3fb4a6d9709615601"/>
+  <macro name="lsslist" file="lsslist.bin" md5="a525832f3dc3c2a1eba2cd13f44b048a"/>
+  <macro name="lstcat" file="lstcat.bin" md5="d47abecf55da27cabf2a0dd4f2e21b71"/>
+  <macro name="lstsize" file="lstsize.bin" md5="98f2c2a522e8cb15b9a8460b2bbde146"/>
+  <macro name="num2cell" file="num2cell.bin" md5="6ab782e8e208036d482ded89cccf6c9a"/>
+  <macro name="tree_show" file="tree_show.bin" md5="a0d690e4762d12b3b2d971722014ce84"/>
+</scilablib>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="output_streamlib">
+  <macro name="ssprint" file="ssprint.bin" md5="ce34e17d7a47499407df1e4bea86c3bb"/>
+</scilablib>

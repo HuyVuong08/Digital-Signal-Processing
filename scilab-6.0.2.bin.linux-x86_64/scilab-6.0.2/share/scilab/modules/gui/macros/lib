@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="guilib">
+  <macro name="%BorderFo_p" file="%BorderFo_p.bin" md5="c1d86993a9ff94be8fa6007105adaa98"/>
+  <macro name="addmenu" file="addmenu.bin" md5="ab4795ff4bc020fc3ba9f0cbfb6f7c87"/>
+  <macro name="clipboard" file="clipboard.bin" md5="5c7a342eabc5522413bb5b9fd5636e1e"/>
+  <macro name="close" file="close.bin" md5="d7b0d75a1d78d6aa05bc96d9af3d3141"/>
+  <macro name="createBorder" file="createBorder.bin" md5="0cec58b311bc5c6ff490c8a04fc60fa6"/>
+  <macro name="createBorderFont" file="createBorderFont.bin" md5="b090f17b26f1307ad6ed5ab5f5691558"/>
+  <macro name="createWindow" file="createWindow.bin" md5="4e40cd12bca216149d736f4ea78cd345"/>
+  <macro name="findobj" file="findobj.bin" md5="9a0bd1dbc6108e2f01bad31ce2c64b50"/>
+  <macro name="getvalue" file="getvalue.bin" md5="ad915ec64b0fb63615bee0d8a17a757e"/>
+  <macro name="main_menubar_cb" file="main_menubar_cb.bin" md5="86ae1fb2738d2ad7461bcb583b093f63"/>
+  <macro name="menubar" file="menubar.bin" md5="5628ad4410a53f704ab0ad8b27c90dd5"/>
+  <macro name="uitable" file="uitable.bin" md5="17d0c14b397135d8fd9e943f269da931"/>
+  <macro name="x_choices" file="x_choices.bin" md5="f2182cfdfe01c1bd6c22eea2475fea9f"/>
+  <macro name="x_matrix" file="x_matrix.bin" md5="0dc2f6107ce3166c449cf22c73073af8"/>
+</scilablib>

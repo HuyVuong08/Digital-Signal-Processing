@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="sparselib">
+  <macro name="%bicg" file="%bicg.bin" md5="daefe5b338c83036d3c9c8b9f8090712"/>
+  <macro name="%bicgstab" file="%bicgstab.bin" md5="de49f7853bc59191f3f98bc1fcea2eb5"/>
+  <macro name="%cgs" file="%cgs.bin" md5="4299db815650277cefa8aa350dffdcc7"/>
+  <macro name="%pcg" file="%pcg.bin" md5="2f3c686ef6faf75dc6088ecf4d8e16e2"/>
+  <macro name="blkslv" file="blkslv.bin" md5="ec6f053c65ccae7adf76edd4f35c7281"/>
+  <macro name="chfact" file="chfact.bin" md5="f1c21ace0092cac3d04e838b2e51da6b"/>
+  <macro name="chsolve" file="chsolve.bin" md5="455dfb2d7741a1fe6eea94b1f3e62b98"/>
+  <macro name="conjgrad" file="conjgrad.bin" md5="6d3e0a6094a5db3b78d3284e45faf803"/>
+  <macro name="gmres" file="gmres.bin" md5="995da98341f215a0b54d5da8c3583c63"/>
+  <macro name="issparse" file="issparse.bin" md5="768931243bcf375f63ebada649db4040"/>
+  <macro name="qmr" file="qmr.bin" md5="ade931a168ca6aab2575e0491cdbb1a4"/>
+  <macro name="speye" file="speye.bin" md5="8a3b3bf003f260646a47c58468d3ce91"/>
+  <macro name="sprand" file="sprand.bin" md5="8210a5a3b0b7545b6812fad5af9912ba"/>
+  <macro name="spzeros" file="spzeros.bin" md5="d5c00d436fd5ebc3961782e81e36cb9f"/>
+</scilablib>

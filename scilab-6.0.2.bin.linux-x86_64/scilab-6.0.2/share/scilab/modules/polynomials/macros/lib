@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="polynomialslib">
+  <macro name="%p_d_p" file="%p_d_p.bin" md5="3bc4911c0e9f56ccb158a9928f966131"/>
+  <macro name="%p_r_p" file="%p_r_p.bin" md5="93c07917650101f991849b2e2dcd797f"/>
+  <macro name="%p_simp" file="%p_simp.bin" md5="7140d2630432d60272ae017ed7c6707f"/>
+  <macro name="%s_r_p" file="%s_r_p.bin" md5="2ddd078007c70541d6965c7f9c92ac3a"/>
+  <macro name="chepol" file="chepol.bin" md5="bea5a936eafa367d0cee0e4b2d0e45d0"/>
+  <macro name="cmndred" file="cmndred.bin" md5="7fefcf3d4a523f55373e5fcf4a99fb06"/>
+  <macro name="coffg" file="coffg.bin" md5="ba18b0a52ccf1507c7f239fb3f387b19"/>
+  <macro name="colcompr" file="colcompr.bin" md5="2dea8ff031df89a141a7a5fb062c7fa2"/>
+  <macro name="denom" file="denom.bin" md5="8a7d908fb445b8bca916b2f44143b375"/>
+  <macro name="derivat" file="derivat.bin" md5="e27c8a222de3fadb44f7dbe1fafb2177"/>
+  <macro name="determ" file="determ.bin" md5="00003a0e5e9100a0c9fd61673ddf4349"/>
+  <macro name="detr" file="detr.bin" md5="68d15963848d00b207ebbf8200736ff9"/>
+  <macro name="diophant" file="diophant.bin" md5="460897dc10b097174c96e97ee7eaa91f"/>
+  <macro name="factors" file="factors.bin" md5="c70baf96c7eacb14b705f2ed4a9faa88"/>
+  <macro name="gcd" file="gcd.bin" md5="8cc618255de22b8e67b8fc2cb01418a6"/>
+  <macro name="hermit" file="hermit.bin" md5="35998774868e4a670ca2cd502d46f446"/>
+  <macro name="horner" file="horner.bin" md5="fe8a95dfe1086ac422a3dd21abb523b8"/>
+  <macro name="hrmt" file="hrmt.bin" md5="e203b197f3ecf74422baf54656a8016d"/>
+  <macro name="htrianr" file="htrianr.bin" md5="8e6152684afea9b9f9aeb4682c9d9041"/>
+  <macro name="inv_coeff" file="inv_coeff.bin" md5="d84a2d150dbb1e34b60ebe52a1830a69"/>
+  <macro name="invr" file="invr.bin" md5="ab562a7d72dfe63de63e32e3c7f1618d"/>
+  <macro name="lcm" file="lcm.bin" md5="1a7e33bf2a9d095fca9369ff8dcd9320"/>
+  <macro name="lcmdiag" file="lcmdiag.bin" md5="8ce27bca6142312fd97d0052e382b758"/>
+  <macro name="numer" file="numer.bin" md5="01f8941c78e1f2e3695be5866a357fb6"/>
+  <macro name="pdiv" file="pdiv.bin" md5="2d1a71ed4876b051ee6fbaaeab1c2c82"/>
+  <macro name="pfactors" file="pfactors.bin" md5="c7740e07ef693458c843b261c9dfa2c9"/>
+  <macro name="pol2des" file="pol2des.bin" md5="13bcd4d8dd0973ed97ff0194b25c85e7"/>
+  <macro name="pol2str" file="pol2str.bin" md5="244e09b7669abb9abf54502a493f3d9e"/>
+  <macro name="polfact" file="polfact.bin" md5="02851af0d5448da46a716add4beb5903"/>
+  <macro name="rowcompr" file="rowcompr.bin" md5="c3e7c5180b0ba0b9d4a2175b21a2ec29"/>
+  <macro name="sylm" file="sylm.bin" md5="519f7cdc42e4f37af75336230399c410"/>
+</scilablib>

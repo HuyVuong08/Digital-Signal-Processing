@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="atomsguilib">
+  <macro name="atomsGui" file="atomsGui.bin" md5="6434f5e84c3ba65c3d094fe77b6d0b43"/>
+  <macro name="atomsResize" file="atomsResize.bin" md5="8d32c3fe7c82f70d588c0523e969ad8f"/>
+  <macro name="cbAtomsGui" file="cbAtomsGui.bin" md5="d969892cb5dd239f812faf5d6a078c50"/>
+</scilablib>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="uitreelib">
+  <macro name="uiConcatTree" file="uiConcatTree.bin" md5="48d91e2eb3eb30647f4d46abc1cb31bd"/>
+  <macro name="uiCreateNode" file="uiCreateNode.bin" md5="93517d2c08afe983705af04d88dae438"/>
+  <macro name="uiCreateTree" file="uiCreateTree.bin" md5="3d12de273dbb83486535f200f176ac37"/>
+  <macro name="uiDeleteNode" file="uiDeleteNode.bin" md5="9868379ebf4a91355e151dd4fed04116"/>
+  <macro name="uiDumpTree" file="uiDumpTree.bin" md5="ca2c407b92f0c0855dd2fdb8864928f6"/>
+  <macro name="uiEqualsTree" file="uiEqualsTree.bin" md5="ffb52795a308a99dc09e7ab5817b96ef"/>
+  <macro name="uiFindNode" file="uiFindNode.bin" md5="b0ca35eb0e38f24c2bf44660c26f829c"/>
+  <macro name="uiGetChildrenNode" file="uiGetChildrenNode.bin" md5="b29514d17dc628a212b0956cd1b5f89b"/>
+  <macro name="uiGetNodePosition" file="uiGetNodePosition.bin" md5="332d96e922330339620d5b1a683086cf"/>
+  <macro name="uiGetParentNode" file="uiGetParentNode.bin" md5="604f6ed85bef86d2726d55c6fea7b399"/>
+  <macro name="uiInsertNode" file="uiInsertNode.bin" md5="c728ce1eb3bdc3f6b7f117e1ee0a9750"/>
+</scilablib>

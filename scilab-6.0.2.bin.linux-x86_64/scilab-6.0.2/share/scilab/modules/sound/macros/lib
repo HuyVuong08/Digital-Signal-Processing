@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="soundlib">
+  <macro name="analyze" file="analyze.bin" md5="c5df9c4fd95dbf0544402ce34e4c1d34"/>
+  <macro name="auread" file="auread.bin" md5="84cc1cf7bcbdd50339ca71795c7da0f0"/>
+  <macro name="auwrite" file="auwrite.bin" md5="d5cefb69a4c110307a5dc8adcb1207a2"/>
+  <macro name="lin2mu" file="lin2mu.bin" md5="166ff622a71928539ebba73a3e500e16"/>
+  <macro name="loadwave" file="loadwave.bin" md5="1bdda86bce0c7d1894c674efa5a505f5"/>
+  <macro name="mapsound" file="mapsound.bin" md5="a55c2de45af064cc167aa432bb3df871"/>
+  <macro name="mu2lin" file="mu2lin.bin" md5="e5b8aa870c3ec118250c45abd9221302"/>
+  <macro name="playsnd" file="playsnd.bin" md5="62df85f3261a66319e24711fd1216ae7"/>
+  <macro name="savewave" file="savewave.bin" md5="165954e51c0d7684822d17ea44bd9df5"/>
+  <macro name="sound" file="sound.bin" md5="1d0585db93abddaa1c4ab51ca34442d9"/>
+  <macro name="soundsec" file="soundsec.bin" md5="0b00ed97a1f30b964e9a1ed773bd56b8"/>
+  <macro name="wavread" file="wavread.bin" md5="c3836d3a98f289bc92968e59daf1fc9d"/>
+  <macro name="wavwrite" file="wavwrite.bin" md5="ee8192fabe135dd61eb5791e571dbe55"/>
+</scilablib>

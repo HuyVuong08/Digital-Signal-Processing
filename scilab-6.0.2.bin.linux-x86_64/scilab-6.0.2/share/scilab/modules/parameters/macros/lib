@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="parameterslib">
+  <macro name="add_param" file="add_param.bin" md5="0e73d4c740cf3da3d5f1d18e649d133f"/>
+  <macro name="get_param" file="get_param.bin" md5="94ef0506baf97e367b7db1f6fd6f6ffa"/>
+  <macro name="init_param" file="init_param.bin" md5="8cf24ac558b0fc032a51b4c94286d863"/>
+  <macro name="is_param" file="is_param.bin" md5="4571b9862c616377f13a26ecabb429b9"/>
+  <macro name="list_param" file="list_param.bin" md5="6d1cb240ee43b30f17ef4732f37c77c7"/>
+  <macro name="remove_param" file="remove_param.bin" md5="22ead99446cbedeb6f562bbc25d977f5"/>
+  <macro name="set_param" file="set_param.bin" md5="63b1854bbc8055baf2ee87b1278dbb08"/>
+</scilablib>
